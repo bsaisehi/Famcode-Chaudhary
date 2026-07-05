@@ -2,116 +2,42 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "05/07/2026, 12:02:13 pm",
-  "_src_updated": "05:20:26 PM 05-07-2026",
+  "updatedAt": "05/07/2026, 01:49:24 pm",
+  "_src_updated": "07:11:35 PM 05-07-2026",
   "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 7,
+  "upcoming_matches": 31,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Mysore Warriors vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143439,
+      "title": "Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)",
+      "tournament": "Sri Lanka tour of West Indies 2026",
+      "match_id": 142979,
       "status": "LIVE",
-      "startTime": "02:00:00 PM 05-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143439_6134_KBB_MW_FC-WEB_1782272593670.jpg",
+      "startTime": "07:30:00 PM 03-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mclive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mclive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/index.m3u8"
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142979_english_hls_fc331367d355218_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-fblive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-fblive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-fblive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-fblive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-fblive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Speen Ghar Tigers vs Amo Sharks (Shpageeza Cricket League, 2026)",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143590,
-      "status": "LIVE",
-      "startTime": "03:00:00 PM 05-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mclive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "DTM Race 2 - Norisring vs Norisring (DTM 2026)",
-      "tournament": "DTM 2026",
-      "match_id": 143625,
-      "status": "LIVE",
-      "startTime": "05:00:00 PM 05-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mclive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143625_english_hls_3ff7be17b74727_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/1080p.m3u8"
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d355218_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -157,13 +83,198 @@
       }
     },
     {
+      "category": "Golf",
+      "title": "Day 4 vs Hulencourt Golf Club, Belgium (Hulencourt Women's Open 2026)",
+      "tournament": "Hulencourt Women's Open 2026",
+      "match_id": 143411,
+      "status": "LIVE",
+      "startTime": "06:30:00 PM 05-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mclive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143411_english_hls_e806df084e2082_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143411_english_hls_e806df084e2082_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 4 vs United States of America (US Senior Open Championship 2026)",
+      "tournament": "US Senior Open Championship 2026",
+      "match_id": 143581,
+      "status": "LIVE",
+      "startTime": "06:30:00 PM 05-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143581_6147_PGA_LOC_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mclive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143581_english_hls_dba73a2a7828396_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143581_english_hls_dba73a2a7828396_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "ADAC GT Race 2 - Norisring vs Norisring (DTM 2026)",
+      "tournament": "DTM 2026",
+      "match_id": 143621,
+      "status": "LIVE",
+      "startTime": "06:40:00 PM 05-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mclive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143621_english_hls_b87a8e00d382684_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143621_english_hls_b87a8e00d382684_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race vs Great Britain (F1 PIRELLI BRITISH GRAND PRIX 2026)",
+      "tournament": "F1 PIRELLI BRITISH GRAND PRIX 2026",
+      "match_id": 139466,
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 05-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mclive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139466_english_hls_5aae1b234285733_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/139466_english_hls_5aae1b234285733_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
-      "title": "Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)",
-      "tournament": "Sri Lanka tour of West Indies 2026",
-      "match_id": 142979,
-      "status": "PAUSED",
-      "startTime": "07:30:00 PM 03-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
+      "title": "Speen Ghar Tigers vs Amo Sharks (Shpageeza Cricket League, 2026)",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143590,
+      "status": "LIVE",
+      "startTime": "03:00:00 PM 05-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mclive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Shivamogga Yodhas vs Hubli Tigers (Maharaja T20 Trophy, 2026)",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143440,
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 05-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143440_6134_SY_HT_FC-WEB_1782272593041.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -201,43 +312,6 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 06-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Shivamogga Yodhas vs Hubli Tigers (Maharaja T20 Trophy, 2026)",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143440,
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 05-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143440_6134_SY_HT_FC-WEB_1782272593041.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -342,154 +416,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Gulbarga Mystics vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143442,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 06-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143442_6134_GMY_KBB_FC-WEB_1782272593184.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 4 vs Hulencourt Golf Club, Belgium (Hulencourt Women's Open 2026)",
-      "tournament": "Hulencourt Women's Open 2026",
-      "match_id": 143411,
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 05-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 4 vs United States of America (US Senior Open Championship 2026)",
-      "tournament": "US Senior Open Championship 2026",
-      "match_id": 143581,
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 05-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143581_6147_PGA_LOC_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "ADAC GT Race 2 - Norisring vs Norisring (DTM 2026)",
-      "tournament": "DTM 2026",
-      "match_id": 143621,
-      "status": "UPCOMING",
-      "startTime": "06:40:00 PM 05-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Motorsports",
       "title": "F1 Kids 2026 vs Silverstone (F1 Kids 2026)",
       "tournament": "F1 Kids 2026",
@@ -527,13 +453,13 @@
       }
     },
     {
-      "category": "Formula 1",
-      "title": "Race vs Great Britain (F1 PIRELLI BRITISH GRAND PRIX 2026)",
-      "tournament": "F1 PIRELLI BRITISH GRAND PRIX 2026",
-      "match_id": 139466,
+      "category": "Cricket",
+      "title": "Gulbarga Mystics vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143442,
       "status": "UPCOMING",
-      "startTime": "07:30:00 PM 05-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
+      "startTime": "07:00:00 PM 06-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143442_6134_GMY_KBB_FC-WEB_1782272593184.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1385,6 +1311,80 @@
       "status": "UPCOMING",
       "startTime": "02:00:00 PM 10-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia vs Vidarbha (Vidarbha Cricket Association tour of Namibia)",
+      "tournament": "Vidarbha Cricket Association tour of Namibia",
+      "match_id": 143632,
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 10-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC (Maharaja T20 Trophy, 2026)",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143445,
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 10-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
