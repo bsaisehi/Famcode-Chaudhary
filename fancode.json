@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "09/07/2026, 11:56:28 pm",
-  "_src_updated": "05:23:12 AM 10-07-2026",
+  "updatedAt": "10/07/2026, 02:02:50 am",
+  "_src_updated": "07:24:25 AM 10-07-2026",
   "total_matches": 35,
   "live_matches": 0,
   "upcoming_matches": 35,
@@ -305,6 +305,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
+      "tournament": "Bangladesh tour of Zimbabwe, 2026",
+      "match_id": 143402,
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 11-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Live Events",
       "title": "Day 3 vs Goa (Dream UTT Juniors 2026)",
       "tournament": "Dream UTT Juniors 2026",
@@ -386,43 +423,6 @@
       "status": "UPCOMING",
       "startTime": "03:00:00 PM 10-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143597_6148_BOS_BD_fc-web_1782725011549.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
-      "tournament": "Bangladesh tour of Zimbabwe, 2026",
-      "match_id": 143402,
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 11-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
