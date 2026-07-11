@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/07/2026, 09:47:59 am",
-  "_src_updated": "03:17:30 PM 11-07-2026",
+  "updatedAt": "11/07/2026, 10:51:05 am",
+  "_src_updated": "04:18:12 PM 11-07-2026",
   "total_matches": 33,
   "live_matches": 4,
   "upcoming_matches": 29,
@@ -305,6 +305,43 @@
       }
     },
     {
+      "category": "Motorsports",
+      "title": "ADAC GT Master Race 1 - Nurburgring vs Nurburgring (DTM 2026)",
+      "tournament": "DTM 2026",
+      "match_id": 143693,
+      "status": "UPCOMING",
+      "startTime": "05:05:00 PM 11-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Gibraltar vs Serbia (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
       "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
@@ -379,13 +416,13 @@
       }
     },
     {
-      "category": "Motorsports",
-      "title": "ADAC GT Master Race 1 - Nurburgring vs Nurburgring (DTM 2026)",
-      "tournament": "DTM 2026",
-      "match_id": 143693,
+      "category": "Cricket",
+      "title": "TBC vs TBC (Maharaja T20 Trophy, 2026)",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143448,
       "status": "UPCOMING",
-      "startTime": "05:05:00 PM 11-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
+      "startTime": "07:00:00 PM 12-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -423,43 +460,6 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 12-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "TBC vs TBC (Maharaja T20 Trophy, 2026)",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143448,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 12-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
