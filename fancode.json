@@ -2,12 +2,49 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/07/2026, 12:28:32 pm",
-  "_src_updated": "05:52:31 PM 13-07-2026",
+  "updatedAt": "13/07/2026, 03:20:27 pm",
+  "_src_updated": "08:44:54 PM 13-07-2026",
   "total_matches": 34,
-  "live_matches": 3,
-  "upcoming_matches": 31,
+  "live_matches": 4,
+  "upcoming_matches": 30,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Estonia vs Turkiye (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246569,
+      "status": "LIVE",
+      "startTime": "07:00:00 PM 13-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mclive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/4246569_english_hls_fcef144b8c12081_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
     {
       "category": "Tennis",
       "title": "Day 1 - World Feed vs Switzerland (ATP 250 - EFG Swiss Open Gstaad 2026)",
@@ -38,43 +75,6 @@
             "540p": "https://in-mc-fblive.fancode.com/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/540p.m3u8",
             "720p": "https://in-mc-fblive.fancode.com/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/720p.m3u8",
             "1080p": "https://in-mc-fblive.fancode.com/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Amo Sharks vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2026)",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143698,
-      "status": "LIVE",
-      "startTime": "03:00:00 PM 13-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mclive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -120,35 +120,35 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Estonia vs Turkiye (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246569,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 13-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "category": "Tennis",
+      "title": "Day 1 - World Feed vs Croatia (ATP 250 - Plava Laguna Croatia Open Umag 2026)",
+      "tournament": "ATP 250 - Plava Laguna Croatia Open Umag 2026",
+      "match_id": 143497,
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 13-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mclive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mclive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143497_english_hls_a92613e81217241_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -312,43 +312,6 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 14-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 1 - World Feed vs Croatia (ATP 250 - Plava Laguna Croatia Open Umag 2026)",
-      "tournament": "ATP 250 - Plava Laguna Croatia Open Umag 2026",
-      "match_id": 143497,
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 13-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -681,7 +644,7 @@
       "match_id": 143403,
       "status": "UPCOMING",
       "startTime": "04:00:00 PM 15-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783780993683.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1162,7 +1125,7 @@
       "match_id": 143404,
       "status": "UPCOMING",
       "startTime": "04:00:00 PM 17-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1237,6 +1200,43 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 17-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Practice Session vs Spa-Francorchamps (F3 BELGIUM 2026)",
+      "tournament": "F3 BELGIUM 2026",
+      "match_id": 139729,
+      "status": "UPCOMING",
+      "startTime": "01:25:00 PM 17-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
