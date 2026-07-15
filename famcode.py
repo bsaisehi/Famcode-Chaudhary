@@ -49,7 +49,7 @@ def main():
         resolutions = ["240p", "360p", "480p", "540p", "720p", "1080p"]
         auto_streams_dict = {}
         for res in resolutions:
-            auto_streams_dict[res] = transform_url(dai_url, f"{res}.m3u8")
+            auto_streams_dict[res] = transform_url(v1_url, f"{res}.m3u8")
 
         match_obj = {
             "category": match.get("event_category", "Cricket"),
