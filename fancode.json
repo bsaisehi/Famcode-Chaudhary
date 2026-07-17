@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/07/2026, 10:28:20 am",
-  "_src_updated": "03:55:06 PM 17-07-2026",
+  "updatedAt": "17/07/2026, 11:50:45 am",
+  "_src_updated": "05:15:55 PM 17-07-2026",
   "total_matches": 37,
-  "live_matches": 4,
-  "upcoming_matches": 33,
+  "live_matches": 5,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -157,6 +157,43 @@
       }
     },
     {
+      "category": "Formula 1",
+      "title": "Practice 1 vs Belgium (F1 MOET & CHANDON BELGIAN GRAND PRIX 2026)",
+      "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
+      "match_id": 139467,
+      "status": "LIVE",
+      "startTime": "05:00:00 PM 17-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
+        "fancode_cdn": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
+        "fancode_bd_cdn": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
+        "fancode_np_cdn": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
+        "fancode_lk_cdn": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
+          "fancode_cdn_v1": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8",
+          "fancode_dai_cdn": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/240p.m3u8",
+            "360p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/360p.m3u8",
+            "480p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/480p.m3u8",
+            "540p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/540p.m3u8",
+            "720p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/720p.m3u8",
+            "1080p": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Jaffna Kings vs Galle Gallants (Lanka Premier League, 2026)",
       "tournament": "Lanka Premier League, 2026",
@@ -238,43 +275,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 18-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246711_52991_GG_CK_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 1 vs Belgium (F1 MOET & CHANDON BELGIAN GRAND PRIX 2026)",
-      "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
-      "match_id": 139467,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 17-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
