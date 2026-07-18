@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/07/2026, 11:33:54 am",
-  "_src_updated": "05:03:12 PM 18-07-2026",
+  "updatedAt": "18/07/2026, 12:34:30 pm",
+  "_src_updated": "06:03:58 PM 18-07-2026",
   "total_matches": 36,
-  "live_matches": 5,
-  "upcoming_matches": 31,
+  "live_matches": 6,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -120,43 +120,6 @@
       }
     },
     {
-      "category": "Formula 1",
-      "title": "Practice 3 vs Belgium (F1 MOET & CHANDON BELGIAN GRAND PRIX 2026)",
-      "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
-      "match_id": 139469,
-      "status": "LIVE",
-      "startTime": "04:00:00 PM 18-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Tennis",
       "title": "Semi-Finals vs Sweden (ATP 250 - Nordea Open 2026)",
       "tournament": "ATP 250 - Nordea Open 2026",
@@ -186,6 +149,80 @@
             "540p": "https://in-mc-pdlive.fancode.com/mumbai/143488_english_hls_bccff4cf4958691_1ta-di_h264/540p.m3u8",
             "720p": "https://in-mc-pdlive.fancode.com/mumbai/143488_english_hls_bccff4cf4958691_1ta-di_h264/720p.m3u8",
             "1080p": "https://in-mc-pdlive.fancode.com/mumbai/143488_english_hls_bccff4cf4958691_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Sprint Race vs Belgium (F2 BELGIUM 2026)",
+      "tournament": "F2 BELGIUM 2026",
+      "match_id": 139640,
+      "status": "LIVE",
+      "startTime": "05:45:00 PM 18-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-pdlive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Europe - Race 1 vs Portimao, Portugal (Ferrari Challenge Series 2026)",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": 143700,
+      "status": "LIVE",
+      "startTime": "06:00:00 PM 18-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-pdlive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -275,117 +312,6 @@
       "status": "UPCOMING",
       "startTime": "04:00:00 PM 19-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3 vs Puntacana Resort & Club, Dominican Republic (Corales Puntacana Championship 2026)",
-      "tournament": "Corales Puntacana Championship 2026",
-      "match_id": 4246625,
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 18-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Sprint Race vs Belgium (F2 BELGIUM 2026)",
-      "tournament": "F2 BELGIUM 2026",
-      "match_id": 139640,
-      "status": "UPCOMING",
-      "startTime": "05:45:00 PM 18-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Europe - Race 1 vs Portimao, Portugal (Ferrari Challenge Series 2026)",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": 143700,
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 18-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1311,6 +1237,80 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 22-07-2026",
       "image": "https://images.fancode.com/aig/match/v1784105762383/4246714_CASACARDS_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 3 vs Austria (ATP 250 - Generali Open 2026)",
+      "tournament": "ATP 250 - Generali Open 2026",
+      "match_id": 143505,
+      "status": "UPCOMING",
+      "startTime": "03:00:00 PM 22-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Millenium Estoril Open 2026 vs Portugal (ATP 250 - Millenium Estoril Open 2026)",
+      "tournament": "ATP 250 - Millenium Estoril Open 2026",
+      "match_id": 143511,
+      "status": "UPCOMING",
+      "startTime": "03:00:00 PM 22-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/104.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
