@@ -2,12 +2,49 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "19/07/2026, 12:05:42 am",
-  "_src_updated": "05:31:35 AM 19-07-2026",
+  "updatedAt": "19/07/2026, 03:48:23 am",
+  "_src_updated": "09:14:01 AM 19-07-2026",
   "total_matches": 36,
-  "live_matches": 0,
-  "upcoming_matches": 36,
+  "live_matches": 1,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Live Events",
+      "title": "Final vs Goa (Dream UTT Juniors 2026)",
+      "tournament": "Dream UTT Juniors 2026",
+      "match_id": 4246610,
+      "status": "LIVE",
+      "startTime": "09:00:00 AM 19-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-pdlive.fancode.com/mumbai/4246610_english_hls_233c4cc83572587_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Dambulla Sixers vs Jaffna Kings (Lanka Premier League, 2026)",
@@ -127,43 +164,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 19-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246712_52991_CK_KRL_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Live Events",
-      "title": "Final vs Goa (Dream UTT Juniors 2026)",
-      "tournament": "Dream UTT Juniors 2026",
-      "match_id": 4246610,
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 19-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
