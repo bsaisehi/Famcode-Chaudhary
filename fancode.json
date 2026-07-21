@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/07/2026, 06:54:26 pm",
-  "_src_updated": "12:16:07 AM 22-07-2026",
+  "updatedAt": "21/07/2026, 08:10:32 pm",
+  "_src_updated": "01:37:01 AM 22-07-2026",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -38,43 +38,6 @@
             "540p": "https://in-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/540p.m3u8",
             "720p": "https://in-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/720p.m3u8",
             "1080p": "https://in-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 2 vs Portugal (ATP 250 - Millenium Estoril Open 2026)",
-      "tournament": "ATP 250 - Millenium Estoril Open 2026",
-      "match_id": 143510,
-      "status": "LIVE",
-      "startTime": "04:30:00 PM 21-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/104.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-pdlive.fancode.com/mumbai/143510_english_hls_a02481c4f511646_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -1385,6 +1348,43 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 PM 25-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Galle Gallants vs Kandy Royals (Lanka Premier League, 2026)",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246722,
+      "status": "UPCOMING",
+      "startTime": "03:00:00 PM 25-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246722_52991_GG_KRL_FC-WEB_1784539180374.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
