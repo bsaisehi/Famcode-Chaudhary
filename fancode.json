@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/07/2026, 11:27:33 pm",
-  "_src_updated": "04:48:28 AM 25-07-2026",
+  "updatedAt": "25/07/2026, 12:58:49 am",
+  "_src_updated": "06:19:24 AM 25-07-2026",
   "total_matches": 38,
   "live_matches": 0,
   "upcoming_matches": 38,
@@ -934,43 +934,6 @@
       }
     },
     {
-      "category": "Motorsports",
-      "title": "Race vs Budapest (F3 HUNGARY 2026)",
-      "tournament": "F3 HUNGARY 2026",
-      "match_id": 139736,
-      "status": "UPCOMING",
-      "startTime": "12:10:00 PM 26-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Galle Gallants vs Dambulla Sixers (Lanka Premier League, 2026)",
       "tournament": "Lanka Premier League, 2026",
@@ -1015,6 +978,43 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 26-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247431_53000_SFU_PER-XI_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Race vs Budapest (F3 HUNGARY 2026)",
+      "tournament": "F3 HUNGARY 2026",
+      "match_id": 139736,
+      "status": "UPCOMING",
+      "startTime": "12:10:00 PM 26-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
