@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/07/2026, 11:47:22 am",
-  "_src_updated": "05:10:59 PM 26-07-2026",
-  "total_matches": 34,
+  "updatedAt": "26/07/2026, 12:45:59 pm",
+  "_src_updated": "06:11:35 PM 26-07-2026",
+  "total_matches": 35,
   "live_matches": 5,
-  "upcoming_matches": 29,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -1237,6 +1237,43 @@
       "status": "UPCOMING",
       "startTime": "04:30:00 AM 30-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247432_53000_GUY_PER-XI_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
+      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
+      "match_id": 4247200,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 AM 30-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
