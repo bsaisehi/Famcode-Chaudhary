@@ -2,86 +2,12 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/07/2026, 09:35:05 pm",
-  "_src_updated": "02:57:12 AM 27-07-2026",
+  "updatedAt": "26/07/2026, 10:35:09 pm",
+  "_src_updated": "03:57:51 AM 27-07-2026",
   "total_matches": 35,
-  "live_matches": 4,
-  "upcoming_matches": 31,
+  "live_matches": 2,
+  "upcoming_matches": 33,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2026)",
-      "tournament": "Pakistan tour of West Indies, 2026",
-      "match_id": 143633,
-      "status": "LIVE",
-      "startTime": "07:00:00 PM 25-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/240p.m3u8",
-            "360p": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/360p.m3u8",
-            "480p": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/480p.m3u8",
-            "540p": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/540p.m3u8",
-            "720p": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/720p.m3u8",
-            "1080p": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 4 - Main Feed vs TPC Twin Cities - Blaine, Minnesota (3M Open 2026)",
-      "tournament": "3M Open 2026",
-      "match_id": 4246805,
-      "status": "LIVE",
-      "startTime": "06:30:00 PM 26-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/240p.m3u8",
-            "360p": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/360p.m3u8",
-            "480p": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/480p.m3u8",
-            "540p": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/540p.m3u8",
-            "720p": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/720p.m3u8",
-            "1080p": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Day 7 vs Portugal (ATP 250 - Millenium Estoril Open 2026)",
@@ -120,35 +46,35 @@
       }
     },
     {
-      "category": "Golf",
-      "title": "Day 4 - World Feed vs TPC Twin Cities - Blaine, Minnesota (3M Open 2026)",
-      "tournament": "3M Open 2026",
-      "match_id": 4246806,
+      "category": "Cricket",
+      "title": "Guyana Amazon Warriors vs Lahore Qalandars (Global Super League, 2026)",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247433,
       "status": "LIVE",
-      "startTime": "11:30:00 PM 26-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
+      "startTime": "04:30:00 AM 27-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247433_53000_GUY_LAH_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/index.m3u8",
+        "primary": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/index.m3u8"
+          "fancode_cdn": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/240p.m3u8",
-            "360p": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/360p.m3u8",
-            "480p": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/480p.m3u8",
-            "540p": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/540p.m3u8",
-            "720p": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/720p.m3u8",
-            "1080p": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/1080p.m3u8"
+            "240p": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/240p.m3u8",
+            "360p": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/360p.m3u8",
+            "480p": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/480p.m3u8",
+            "540p": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/540p.m3u8",
+            "720p": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/720p.m3u8",
+            "1080p": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -158,12 +84,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Guyana Amazon Warriors vs Lahore Qalandars (Global Super League, 2026)",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247433,
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 27-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247433_53000_GUY_LAH_fc-web.jpg",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2026)",
+      "tournament": "Pakistan tour of West Indies, 2026",
+      "match_id": 143633,
+      "status": "PAUSED",
+      "startTime": "07:00:00 PM 25-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -268,6 +194,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
+      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
+      "match_id": 4247199,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 AM 28-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Tennis",
       "title": "ATP 500 - Mubadala DC Open 2026 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
@@ -312,43 +275,6 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 PM 27-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
-      "tournament": "Malaysia and Sea Hawks Cricket Club 2026",
-      "match_id": 4247199,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 AM 28-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1274,6 +1200,80 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 PM 31-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Central Delhi Kings vs Purani Dilli-6 (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247965,
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 31-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC (Global Super League, 2026)",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247441,
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 01-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
