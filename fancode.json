@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/07/2026, 01:20:22 pm",
-  "_src_updated": "06:37:55 PM 29-07-2026",
-  "total_matches": 37,
-  "live_matches": 2,
-  "upcoming_matches": 35,
+  "updatedAt": "29/07/2026, 03:24:34 pm",
+  "_src_updated": "08:49:27 PM 29-07-2026",
+  "total_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -47,71 +47,34 @@
     },
     {
       "category": "Cricket",
-      "title": "Galle Gallants vs Kandy Royals (Lanka Premier League, 2026)",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246726,
-      "status": "LIVE",
-      "startTime": "03:00:00 PM 29-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246726_52991_GG_KRL_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/240p.m3u8",
-            "360p": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/360p.m3u8",
-            "480p": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/480p.m3u8",
-            "540p": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/540p.m3u8",
-            "720p": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/720p.m3u8",
-            "1080p": "https://livecf.fancode.com/4246726_english_hls_44910f186893977_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Colombo Kaps vs Dambulla Sixers (Lanka Premier League, 2026)",
+      "title": "Dambulla Sixers vs Colombo Kaps (Lanka Premier League, 2026)",
       "tournament": "Lanka Premier League, 2026",
       "match_id": 4246718,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "07:30:00 PM 29-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4246718_52991_CK_DS_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/240p.m3u8",
+            "360p": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/360p.m3u8",
+            "480p": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/480p.m3u8",
+            "540p": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/540p.m3u8",
+            "720p": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/720p.m3u8",
+            "1080p": "https://livecf.fancode.com/4246718_english_hls_abcdc67d1179494_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -124,31 +87,31 @@
       "title": "Lahore Qalandars vs San Francisco Unicorns (Global Super League, 2026)",
       "tournament": "Global Super League, 2026",
       "match_id": 4247436,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "07:30:00 PM 29-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247436_53000_LAH_SFU_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/240p.m3u8",
+            "360p": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/360p.m3u8",
+            "480p": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/480p.m3u8",
+            "540p": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/540p.m3u8",
+            "720p": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/720p.m3u8",
+            "1080p": "https://livecf.fancode.com/4247436_english_hls_ca300c4f0781842_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
