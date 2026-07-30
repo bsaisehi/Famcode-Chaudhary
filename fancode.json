@@ -2,42 +2,42 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/07/2026, 08:44:29 am",
-  "_src_updated": "02:11:10 PM 30-07-2026",
+  "updatedAt": "30/07/2026, 10:51:34 am",
+  "_src_updated": "04:12:20 PM 30-07-2026",
   "total_matches": 35,
-  "live_matches": 0,
-  "upcoming_matches": 35,
+  "live_matches": 1,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
       "title": "Sri Lankan Lions vs Afghanistan Pathans (Asian Legends League, 2026)",
       "tournament": "Asian Legends League, 2026",
       "match_id": 4248200,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "03:30:00 PM 30-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248200_53019_SLO_AFP_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/240p.m3u8",
+            "360p": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/360p.m3u8",
+            "480p": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/480p.m3u8",
+            "540p": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/540p.m3u8",
+            "720p": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/720p.m3u8",
+            "1080p": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -268,6 +268,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Central Delhi Kings vs Purani Dilli-6 (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247965,
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 31-07-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Tennis",
       "title": "World Feed vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
       "tournament": "ATP 500 - Mubadala DC Open 2026",
@@ -349,43 +386,6 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 AM 31-07-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Central Delhi Kings vs Purani Dilli-6 (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247965,
-      "status": "UPCOMING",
-      "startTime": "09:00:00 PM 31-07-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -565,12 +565,12 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC (Global Super League, 2026)",
+      "title": "Desert Vipers vs San Francisco Unicorns (Global Super League, 2026)",
       "tournament": "Global Super League, 2026",
       "match_id": 4247441,
       "status": "UPCOMING",
       "startTime": "04:30:00 AM 01-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247440_53000_SFU_DV_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1157,7 +1157,7 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC (Global Super League, 2026)",
+      "title": "Guyana Amazon Warriors vs TBC (Global Super League, 2026)",
       "tournament": "Global Super League, 2026",
       "match_id": 4247442,
       "status": "UPCOMING",
