@@ -2,49 +2,12 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "01/08/2026, 12:42:34 pm",
-  "_src_updated": "06:05:16 PM 01-08-2026",
-  "total_matches": 35,
+  "updatedAt": "01/08/2026, 02:14:28 pm",
+  "_src_updated": "07:36:15 PM 01-08-2026",
+  "total_matches": 34,
   "live_matches": 5,
-  "upcoming_matches": 30,
+  "upcoming_matches": 29,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "East Delhi Riders vs South Delhi Superstarz (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247964,
-      "status": "LIVE",
-      "startTime": "01:30:00 PM 01-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Sri Lankan Lions vs Bangladesh Tigers (Asian Legends League, 2026)",
@@ -83,35 +46,72 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Chelsea vs Tottenham Hotspur (Club Friendlies 2026)",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248013,
+      "category": "Cricket",
+      "title": "West Delhi Lions vs New Delhi Tigers (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247967,
       "status": "LIVE",
-      "startTime": "03:15:00 PM 01-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png",
+      "startTime": "07:00:00 PM 01-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/index.m3u8",
+        "primary": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/index.m3u8"
+          "fancode_cdn": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/240p.m3u8",
-            "360p": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/360p.m3u8",
-            "480p": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/480p.m3u8",
-            "540p": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/540p.m3u8",
-            "720p": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/720p.m3u8",
-            "1080p": "https://livecf.fancode.com/4248013_english_hls_8042da688643068_1ta-di_h264/1080p.m3u8"
+            "240p": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/240p.m3u8",
+            "360p": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/360p.m3u8",
+            "480p": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/480p.m3u8",
+            "540p": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/540p.m3u8",
+            "720p": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/720p.m3u8",
+            "1080p": "https://livecf.fancode.com/4247967_english_hls_7c5b95df4699270_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Galle Gallants vs Colombo Kaps (Lanka Premier League, 2026)",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246729,
+      "status": "LIVE",
+      "startTime": "07:30:00 PM 01-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246729_52991_CK_GG_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/240p.m3u8",
+            "360p": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/360p.m3u8",
+            "480p": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/480p.m3u8",
+            "540p": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/540p.m3u8",
+            "720p": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/720p.m3u8",
+            "1080p": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -121,34 +121,34 @@
     },
     {
       "category": "Football",
-      "title": "Manchester City vs Internazionale (Club Friendlies 2026)",
+      "title": "Manchester United vs Atletico de Madrid (Club Friendlies 2026)",
       "tournament": "Club Friendlies 2026",
-      "match_id": 4248014,
+      "match_id": 4248012,
       "status": "LIVE",
-      "startTime": "05:00:00 PM 01-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ManchesterCity-Internazionale-Web-matchcard.png",
+      "startTime": "06:30:00 PM 01-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Atletico-Madrid_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8",
+        "primary": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8"
+          "fancode_cdn": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/240p.m3u8",
-            "360p": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/360p.m3u8",
-            "480p": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/480p.m3u8",
-            "540p": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/540p.m3u8",
-            "720p": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/720p.m3u8",
-            "1080p": "https://livecf.fancode.com/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/1080p.m3u8"
+            "240p": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/240p.m3u8",
+            "360p": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/360p.m3u8",
+            "480p": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/480p.m3u8",
+            "540p": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/540p.m3u8",
+            "720p": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/720p.m3u8",
+            "1080p": "https://livecf.fancode.com/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -186,80 +186,6 @@
             "540p": "https://in-ak-pdlive.akamaized.net/mumbai/4248048_english_hls_64ebdbfd1d81621_1ta-di_h264/540p.m3u8",
             "720p": "https://in-ak-pdlive.akamaized.net/mumbai/4248048_english_hls_64ebdbfd1d81621_1ta-di_h264/720p.m3u8",
             "1080p": "https://in-ak-pdlive.akamaized.net/mumbai/4248048_english_hls_64ebdbfd1d81621_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "West Delhi Lions vs New Delhi Tigers (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247967,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 01-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Colombo Kaps vs Galle Gallants (Lanka Premier League, 2026)",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246729,
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 01-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246729_52991_CK_GG_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
           },
           "cookie": "",
           "expires": "1783167966",
@@ -312,43 +238,6 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 AM 02-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Manchester United vs Atletico de Madrid (Club Friendlies 2026)",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248012,
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 01-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Atletico-Madrid_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -897,13 +786,13 @@
       }
     },
     {
-      "category": "Golf",
-      "title": "Main Feed - Day 4 vs Detroit Golf Club - Detroit, Michigan (Rocket Classic 2026)",
-      "tournament": "Rocket Classic 2026",
-      "match_id": 4248050,
+      "category": "Football",
+      "title": "Liverpool vs Leeds United (Club Friendlies 2026)",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248017,
       "status": "UPCOMING",
-      "startTime": "05:00:00 PM 02-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
+      "startTime": "12:30:00 AM 03-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -934,13 +823,13 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Liverpool vs Leeds United (Club Friendlies 2026)",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248017,
+      "category": "Golf",
+      "title": "Main Feed - Day 4 vs Detroit Golf Club - Detroit, Michigan (Rocket Classic 2026)",
+      "tournament": "Rocket Classic 2026",
+      "match_id": 4248050,
       "status": "UPCOMING",
-      "startTime": "12:30:00 AM 03-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card.png",
+      "startTime": "05:00:00 PM 02-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1230,6 +1119,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Scotland vs United Arab Emirates (ICC CWC League 2 Scotland, 2026)",
+      "tournament": "ICC CWC League 2 Scotland, 2026",
+      "match_id": 4248212,
+      "status": "UPCOMING",
+      "startTime": "03:30:00 PM 03-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248212_53013_SCO_UAE_fc-Web-.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Live Events",
       "title": "Day 2 vs Binjiang Gymnasium, China (Asian University Basketball League 2026)",
       "tournament": "Asian University Basketball League 2026",
@@ -1268,12 +1194,49 @@
     },
     {
       "category": "Cricket",
-      "title": "Scotland vs United Arab Emirates (ICC CWC League 2 Scotland, 2026)",
-      "tournament": "ICC CWC League 2 Scotland, 2026",
-      "match_id": 4248212,
+      "title": "Indian Royals vs Sri Lankan Lions (Asian Legends League, 2026)",
+      "tournament": "Asian Legends League, 2026",
+      "match_id": 4248195,
       "status": "UPCOMING",
-      "startTime": "03:30:00 PM 03-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248212_53013_SCO_UAE_fc-Web-.png",
+      "startTime": "05:00:00 PM 03-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248195_53019_INR_SLO_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Central Delhi Kings vs North Delhi Strikers (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247974,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 PM 03-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
