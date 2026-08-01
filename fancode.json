@@ -2,79 +2,42 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "01/08/2026, 07:06:32 am",
-  "_src_updated": "12:31:47 PM 01-08-2026",
-  "total_matches": 34,
-  "live_matches": 1,
+  "updatedAt": "01/08/2026, 09:15:57 am",
+  "_src_updated": "02:43:11 PM 01-08-2026",
+  "total_matches": 35,
+  "live_matches": 2,
   "upcoming_matches": 33,
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Day 5 vs Mexico (ATP 250 - Mifel Tennis Open by Telcel Oppo 2026)",
-      "tournament": "ATP 250 - Mifel Tennis Open by Telcel Oppo 2026",
-      "match_id": 143520,
-      "status": "LIVE",
-      "startTime": "08:00:00 AM 01-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/240p.m3u8",
-            "360p": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/360p.m3u8",
-            "480p": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/480p.m3u8",
-            "540p": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/540p.m3u8",
-            "720p": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/720p.m3u8",
-            "1080p": "https://livecf.fancode.com/143520_english_hls_587326823210413_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Afghanistan Pathans vs Asian Stars (Asian Legends League, 2026)",
       "tournament": "Asian Legends League, 2026",
       "match_id": 4248189,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:00:00 PM 01-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248189_53019_AFP_AS_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-ak-pdlive.akamaized.net/mumbai/4248189_english_hls_b5185fa4c162425_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -84,34 +47,34 @@
     },
     {
       "category": "Cricket",
-      "title": "South Delhi Superstarz vs East Delhi Riders (Delhi Premier League, 2026)",
+      "title": "East Delhi Riders vs South Delhi Superstarz (Delhi Premier League, 2026)",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247964,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "01:30:00 PM 01-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/index.m3u8"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-ak-pdlive.akamaized.net/mumbai/4247964_english_hls_3d48df153398151_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -232,49 +195,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Guyana Amazon Warriors vs TBC (Global Super League, 2026)",
+      "title": "Guyana Amazon Warriors vs San Francisco Unicorns (Global Super League, 2026)",
       "tournament": "Global Super League, 2026",
       "match_id": 4247442,
       "status": "UPCOMING",
       "startTime": "04:30:00 AM 02-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Sri Lanka Women vs Pakistan Women (Pakistan Women's tour of Sri Lanka, 2026)",
-      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
-      "match_id": 4247430,
-      "status": "UPCOMING",
-      "startTime": "10:00:00 AM 02-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
+      "image": "https://images.fancode.com/aig/match/v1785570592517/4247442_CASACARDS_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -312,6 +238,43 @@
       "status": "UPCOMING",
       "startTime": "03:15:00 PM 01-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Tottenham-Hotspu-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Sri Lanka Women vs Pakistan Women (Pakistan Women's tour of Sri Lanka, 2026)",
+      "tournament": "Pakistan Women's tour of Sri Lanka, 2026",
+      "match_id": 4247430,
+      "status": "UPCOMING",
+      "startTime": "10:00:00 AM 02-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/333.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -601,13 +564,87 @@
       }
     },
     {
-      "category": "Tennis",
-      "title": "ATP 500 - Mubadala DC Open 2026 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
-      "tournament": "ATP 500 - Mubadala DC Open 2026",
-      "match_id": 143650,
+      "category": "Cricket",
+      "title": "East Delhi Riders vs New Delhi Tigers (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247971,
       "status": "UPCOMING",
-      "startTime": "02:30:00 PM 01-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+      "startTime": "07:00:00 PM 02-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2026)",
+      "tournament": "Pakistan tour of West Indies, 2026",
+      "match_id": 143634,
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 02-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Jaffna Kings vs Dambulla Sixers (Lanka Premier League, 2026)",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246719,
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 02-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246719_52991_JK_DS_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -712,87 +749,13 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "East Delhi Riders vs New Delhi Tigers (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247971,
+      "category": "Tennis",
+      "title": "ATP 500 - Mubadala DC Open 2026 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
+      "tournament": "ATP 500 - Mubadala DC Open 2026",
+      "match_id": 143650,
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 02-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2026)",
-      "tournament": "Pakistan tour of West Indies, 2026",
-      "match_id": 143634,
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 02-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Jaffna Kings vs Dambulla Sixers (Lanka Premier League, 2026)",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246719,
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 02-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4246719_52991_JK_DS_FC-WEB.jpg",
+      "startTime": "04:00:00 AM 02-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1237,6 +1200,80 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 03-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248196_53019_AFP_BAT_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "West Delhi Lions vs Purani Dilli-6 (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247968,
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 03-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Live Events",
+      "title": "Day 2 vs Binjiang Gymnasium, China (Asian University Basketball League 2026)",
+      "tournament": "Asian University Basketball League 2026",
+      "match_id": 4248222,
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 03-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
