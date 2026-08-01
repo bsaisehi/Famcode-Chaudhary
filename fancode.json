@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "31/07/2026, 11:42:59 pm",
-  "_src_updated": "05:07:22 AM 01-08-2026",
+  "updatedAt": "01/08/2026, 01:16:50 am",
+  "_src_updated": "06:38:13 AM 01-08-2026",
   "total_matches": 35,
   "live_matches": 2,
   "upcoming_matches": 33,
@@ -268,6 +268,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Guyana Amazon Warriors vs TBC (Global Super League, 2026)",
+      "tournament": "Global Super League, 2026",
+      "match_id": 4247442,
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 02-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Football",
       "title": "Chelsea vs Tottenham Hotspur (Club Friendlies 2026)",
       "tournament": "Club Friendlies 2026",
@@ -349,43 +386,6 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 01-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Atletico-Madrid_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Guyana Amazon Warriors vs TBC (Global Super League, 2026)",
-      "tournament": "Global Super League, 2026",
-      "match_id": 4247442,
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 02-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
