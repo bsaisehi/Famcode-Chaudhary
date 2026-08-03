@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "03/08/2026, 06:14:49 pm",
-  "_src_updated": "11:36:31 PM 03-08-2026",
-  "total_matches": 34,
+  "updatedAt": "03/08/2026, 07:59:02 pm",
+  "_src_updated": "01:27:43 AM 04-08-2026",
+  "total_matches": 35,
   "live_matches": 7,
-  "upcoming_matches": 27,
+  "upcoming_matches": 28,
   "matches": [
     {
       "category": "Cricket",
@@ -1237,6 +1237,43 @@
       "status": "UPCOMING",
       "startTime": "04:15:00 PM 06-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 1 vs  Centurion Club, St Albans, United Kingdom (PIF London Championship 2026)",
+      "tournament": "PIF London Championship 2026",
+      "match_id": 4248208,
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 06-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
