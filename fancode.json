@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "07/08/2026, 08:44:23 am",
-  "_src_updated": "02:10:53 PM 07-08-2026",
+  "updatedAt": "07/08/2026, 09:42:07 am",
+  "_src_updated": "03:11:37 PM 07-08-2026",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -50,31 +50,68 @@
       "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
       "tournament": "Afghanistan tour of Ireland, 2026",
       "match_id": 4248052,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "03:15:00 PM 07-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "MotoGP",
+      "title": "Day 1 vs Silverstone Circuit (QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026)",
+      "tournament": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
+      "match_id": 139960,
+      "status": "LIVE",
+      "startTime": "02:25:00 PM 07-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -305,43 +342,6 @@
       }
     },
     {
-      "category": "MotoGP",
-      "title": "Day 1 vs Silverstone Circuit (QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026)",
-      "tournament": "QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026",
-      "match_id": 139960,
-      "status": "UPCOMING",
-      "startTime": "02:25:00 PM 07-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Tanzania vs Uganda (ICC CWC Challenge League B 2026)",
       "tournament": "ICC CWC Challenge League B 2026",
@@ -423,6 +423,43 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 08-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Chelsea vs AC Milan (Club Friendlies 2026)",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248021,
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 08-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -749,43 +786,6 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Chelsea vs AC Milan (Club Friendlies 2026)",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248021,
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 08-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Jamaica Kingsmen vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
       "tournament": "Caribbean Premier League, 2026",
@@ -971,13 +971,13 @@
       }
     },
     {
-      "category": "Live Events",
-      "title": "Semifinal 1 vs Binjiang Gymnasium, China (Asian University Basketball League 2026)",
-      "tournament": "Asian University Basketball League 2026",
-      "match_id": 4248226,
+      "category": "Football",
+      "title": "Paris Saint-Germain vs Manchester United (Club Friendlies 2026)",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248020,
       "status": "UPCOMING",
-      "startTime": "01:00:00 PM 08-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
+      "startTime": "08:30:00 PM 08-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/PSG-vs-Manchester-United-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1008,13 +1008,13 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Paris Saint-Germain vs Manchester United (Club Friendlies 2026)",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248020,
+      "category": "Live Events",
+      "title": "Semifinal 1 vs Binjiang Gymnasium, China (Asian University Basketball League 2026)",
+      "tournament": "Asian University Basketball League 2026",
+      "match_id": 4248226,
       "status": "UPCOMING",
-      "startTime": "08:30:00 PM 08-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/PSG-vs-Manchester-United-old.png",
+      "startTime": "01:00:00 PM 08-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
