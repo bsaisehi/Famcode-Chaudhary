@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "08/08/2026, 07:55:54 am",
-  "_src_updated": "01:18:20 PM 08-08-2026",
+  "updatedAt": "08/08/2026, 08:28:01 am",
+  "_src_updated": "01:48:44 PM 08-08-2026",
   "total_matches": 35,
   "live_matches": 3,
   "upcoming_matches": 32,
@@ -121,12 +121,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Jaffna Kings vs Galle Gallants (Lanka Premier League, 2026)",
-      "tournament": "Lanka Premier League, 2026",
-      "match_id": 4246732,
+      "title": "Central Delhi Kings vs Outer Delhi Warriors (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247988,
       "status": "UPCOMING",
-      "startTime": "06:20:00 PM 08-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "07:00:00 PM 08-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247988_53005_CDK_ODW_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -158,12 +158,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Central Delhi Kings vs Outer Delhi Warriors (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247988,
+      "title": "Jaffna Kings vs Galle Gallants (Lanka Premier League, 2026)",
+      "tournament": "Lanka Premier League, 2026",
+      "match_id": 4246732,
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 08-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247988_53005_CDK_ODW_fc-Web.png",
+      "startTime": "07:30:00 PM 08-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -638,43 +638,6 @@
       }
     },
     {
-      "category": "Live Events",
-      "title": "Semifinal 2 vs Binjiang Gymnasium, China (Asian University Basketball League 2026)",
-      "tournament": "Asian University Basketball League 2026",
-      "match_id": 4248227,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 08-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "South Delhi Superstarz vs Central Delhi Kings (Delhi Premier League, 2026)",
       "tournament": "Delhi Premier League, 2026",
@@ -717,8 +680,45 @@
       "tournament": "Wyndham Championship 2026",
       "match_id": 4248187,
       "status": "UPCOMING",
-      "startTime": "05:15:00 PM 08-08-2026",
+      "startTime": "04:30:00 PM 08-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Live Events",
+      "title": "Semifinal 2 vs Binjiang Gymnasium, China (Asian University Basketball League 2026)",
+      "tournament": "Asian University Basketball League 2026",
+      "match_id": 4248227,
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 08-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
