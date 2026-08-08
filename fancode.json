@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "08/08/2026, 01:53:15 pm",
-  "_src_updated": "07:23:00 PM 08-08-2026",
+  "updatedAt": "08/08/2026, 02:21:51 pm",
+  "_src_updated": "07:43:12 PM 08-08-2026",
   "total_matches": 35,
   "live_matches": 11,
   "upcoming_matches": 24,
@@ -416,6 +416,43 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Paris Saint-Germain vs Manchester United (Club Friendlies 2026)",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248020,
+      "status": "UPCOMING",
+      "startTime": "08:30:00 PM 08-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/PSG-vs-Manchester-United-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "North Delhi Strikers vs New Delhi Tigers (Delhi Premier League, 2026)",
       "tournament": "Delhi Premier League, 2026",
@@ -460,43 +497,6 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 09-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248215_53013_SCO_UAE_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Paris Saint-Germain vs Manchester United (Club Friendlies 2026)",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248020,
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 08-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/PSG-vs-Manchester-United-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
