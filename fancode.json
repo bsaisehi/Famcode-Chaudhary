@@ -2,49 +2,12 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "10/08/2026, 08:55:32 pm",
-  "_src_updated": "02:22:59 AM 11-08-2026",
+  "updatedAt": "10/08/2026, 09:31:15 pm",
+  "_src_updated": "02:53:18 AM 11-08-2026",
   "total_matches": 37,
-  "live_matches": 2,
-  "upcoming_matches": 35,
+  "live_matches": 1,
+  "upcoming_matches": 36,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Plymouth Argyle vs Exeter City (Carabao Cup 2026-27)",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4248176,
-      "status": "LIVE",
-      "startTime": "12:30:00 AM 11-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248176_53016_PLY_EC_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786473695~_GO=Generated~acl=/mumbai/4248176_english_hls_30d825e59492259_1ta-di_h264/*~Signature=AVMBkTWASNGGVjlMLF51DmcAo1KX0DJqwBtCQC-YrRjy3-5LJYrMZg-rmHvozw4vY46YcIM16eKsRnM8zaJDVMKUqKYH"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
     {
       "category": "Tennis",
       "title": "Rogers Court vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
@@ -565,43 +528,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Jamaica Kingsmen vs Barbados Tridents (Caribbean Premier League, 2026)",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248287,
-      "status": "UPCOMING",
-      "startTime": "05:30:00 AM 12-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248287_53026_JK_BT_FC-Web_1786367987042.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Bahrain vs Singapore (ICC CWC Challenge League B 2026)",
       "tournament": "ICC CWC Challenge League B 2026",
       "match_id": 4248255,
@@ -645,6 +571,43 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 AM 12-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Jamaica Kingsmen vs Barbados Tridents (Caribbean Premier League, 2026)",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248287,
+      "status": "UPCOMING",
+      "startTime": "05:30:00 AM 12-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248287_53026_JK_BT_FC-Web_1786367987042.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1345,6 +1308,43 @@
       "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248103,
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 13-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP Masters Omnium Banque National 2026 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248104,
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 13-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
