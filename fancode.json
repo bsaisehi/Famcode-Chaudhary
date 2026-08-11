@@ -2,12 +2,49 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/08/2026, 07:49:18 am",
-  "_src_updated": "01:10:15 PM 11-08-2026",
+  "updatedAt": "11/08/2026, 08:38:57 am",
+  "_src_updated": "02:00:54 PM 11-08-2026",
   "total_matches": 37,
-  "live_matches": 3,
-  "upcoming_matches": 34,
+  "live_matches": 4,
+  "upcoming_matches": 33,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Central Delhi Kings vs New Delhi Tigers (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247982,
+      "status": "LIVE",
+      "startTime": "01:30:00 PM 11-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247982_53005_CDK_NDT_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Tanzania vs Hong Kong, China (ICC CWC Challenge League B 2026)",
@@ -112,43 +149,6 @@
             "540p": "https://in-mc-flive.fancode.com/mumbai/4248228_english_hls_b48c69b07748078_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786519199~_GO=Generated~acl=/mumbai/4248228_english_hls_b48c69b07748078_1ta-di_h264/*~Signature=AVMBkTVy4489v-D-P886cNqb2MzTDtYh5ZLf2Fd5sq5WCw-6Fg8K8cFEdKhHEjYWtrbcYE_asveDuLejASLJXG72abEP",
             "720p": "https://in-mc-flive.fancode.com/mumbai/4248228_english_hls_b48c69b07748078_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786519199~_GO=Generated~acl=/mumbai/4248228_english_hls_b48c69b07748078_1ta-di_h264/*~Signature=AVMBkTVy4489v-D-P886cNqb2MzTDtYh5ZLf2Fd5sq5WCw-6Fg8K8cFEdKhHEjYWtrbcYE_asveDuLejASLJXG72abEP",
             "1080p": "https://in-mc-flive.fancode.com/mumbai/4248228_english_hls_b48c69b07748078_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786519199~_GO=Generated~acl=/mumbai/4248228_english_hls_b48c69b07748078_1ta-di_h264/*~Signature=AVMBkTVy4489v-D-P886cNqb2MzTDtYh5ZLf2Fd5sq5WCw-6Fg8K8cFEdKhHEjYWtrbcYE_asveDuLejASLJXG72abEP"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Central Delhi Kings vs New Delhi Tigers (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247982,
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 11-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247982_53005_CDK_NDT_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
           },
           "cookie": "",
           "expires": "1783167966",
@@ -342,6 +342,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "East Delhi Riders vs South Delhi Superstarz (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247987,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 PM 12-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Live Events",
       "title": "Final vs Binjiang Gymnasium, China (Asian University Basketball League 2026)",
       "tournament": "Asian University Basketball League 2026",
@@ -386,43 +423,6 @@
       "status": "UPCOMING",
       "startTime": "08:00:00 PM 11-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-T20is-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "East Delhi Riders vs South Delhi Superstarz (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247987,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 12-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
