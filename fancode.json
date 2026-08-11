@@ -2,12 +2,86 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/08/2026, 05:39:35 am",
-  "_src_updated": "10:58:34 AM 11-08-2026",
+  "updatedAt": "11/08/2026, 06:31:58 am",
+  "_src_updated": "11:59:17 AM 11-08-2026",
   "total_matches": 37,
-  "live_matches": 0,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Tanzania vs Hong Kong, China (ICC CWC Challenge League B 2026)",
+      "tournament": "ICC CWC Challenge League B 2026",
+      "match_id": 4248253,
+      "status": "LIVE",
+      "startTime": "11:30:00 AM 11-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Italy vs Uganda (ICC CWC Challenge League B 2026)",
+      "tournament": "ICC CWC Challenge League B 2026",
+      "match_id": 4248254,
+      "status": "LIVE",
+      "startTime": "11:30:00 AM 11-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Central Delhi Kings vs New Delhi Tigers (Delhi Premier League, 2026)",
@@ -90,80 +164,6 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 11-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247989_53005_WDL_NDS_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Tanzania vs Hong Kong, China (ICC CWC Challenge League B 2026)",
-      "tournament": "ICC CWC Challenge League B 2026",
-      "match_id": 4248253,
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 11-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Italy vs Uganda (ICC CWC Challenge League B 2026)",
-      "tournament": "ICC CWC Challenge League B 2026",
-      "match_id": 4248254,
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 11-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -417,7 +417,7 @@
     },
     {
       "category": "Tennis",
-      "title": "World. Feed vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
+      "title": "World Feed 1 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
       "tournament": "ATP Masters Omnium Banque National 2026",
       "match_id": 4248094,
       "status": "UPCOMING",
@@ -459,6 +459,43 @@
       "match_id": 4248096,
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 11-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed 2 vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
+      "tournament": "ATP Masters Omnium Banque National 2026",
+      "match_id": 4248095,
+      "status": "UPCOMING",
+      "startTime": "03:30:00 AM 12-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
@@ -1308,43 +1345,6 @@
       "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
       "tournament": "ATP Masters Cincinnati Open 2026",
       "match_id": 4248107,
-      "status": "UPCOMING",
-      "startTime": "10:00:00 PM 13-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP Masters Cincinnati Open 2026 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248108,
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 13-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
