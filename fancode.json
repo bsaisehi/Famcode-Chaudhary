@@ -2,49 +2,12 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "11/08/2026, 01:25:48 pm",
-  "_src_updated": "06:54:53 PM 11-08-2026",
+  "updatedAt": "11/08/2026, 02:34:14 pm",
+  "_src_updated": "07:56:12 PM 11-08-2026",
   "total_matches": 37,
   "live_matches": 4,
   "upcoming_matches": 33,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "New Delhi Tigers vs Central Delhi Kings (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247982,
-      "status": "LIVE",
-      "startTime": "01:30:00 PM 11-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247982_53005_CDK_NDT_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "United Arab Emirates vs Canada (ICC CWC League 2 Scotland, 2026)",
@@ -158,12 +121,86 @@
     },
     {
       "category": "Cricket",
+      "title": "Oman vs Goa (Goa tour of Oman 2026)",
+      "tournament": "Goa tour of Oman 2026",
+      "match_id": 4248363,
+      "status": "LIVE",
+      "startTime": "08:00:00 PM 11-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-T20is-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786544771~_GO=Generated~acl=/mumbai/4248363_english_hls_e671a2914c24884_1ta-di_h264/*~Signature=AVMBkTW7DeCOXiwDM0qQ2gFLkV3P8Ka3eRVCVfQouxloyDdrJyfmwmGlb-ZAvM9reIl16DcyRFUeen_1aI7PFrmNmrEA"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
       "tournament": "Afghanistan tour of Ireland, 2026",
       "match_id": 4248053,
       "status": "UPCOMING",
       "startTime": "03:15:00 PM 12-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "East Delhi Riders vs South Delhi Superstarz (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247987,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 PM 12-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -268,43 +305,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "East Delhi Riders vs South Delhi Superstarz (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247987,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 12-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "East Bengal FC vs Al-Arabi (AFC Champions League Two Qualifier 2026)",
       "tournament": "AFC Champions League Two Qualifier 2026",
@@ -312,43 +312,6 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 12-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Champions-League-Two_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Oman vs Goa (Goa tour of Oman 2026)",
-      "tournament": "Goa tour of Oman 2026",
-      "match_id": 4248363,
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 11-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-T20is-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1348,6 +1311,43 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 13-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Jamaica Kingsmen vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248283,
+      "status": "UPCOMING",
+      "startTime": "05:30:00 AM 14-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248283_53026_JK_GUY_FC-Web_1786367986989.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
