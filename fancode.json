@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/08/2026, 06:43:00 am",
-  "_src_updated": "12:05:25 PM 14-08-2026",
+  "updatedAt": "14/08/2026, 08:02:28 am",
+  "_src_updated": "01:26:32 PM 14-08-2026",
   "total_matches": 37,
-  "live_matches": 2,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -84,86 +84,86 @@
     },
     {
       "category": "Cricket",
+      "title": "Finland vs Spain (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248372,
+      "status": "LIVE",
+      "startTime": "01:30:00 PM 14-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248372_53031_FIN_ESP_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Portugal vs Israel (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+      "match_id": 4248380,
+      "status": "LIVE",
+      "startTime": "01:30:00 PM 14-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248380_53031_ISR_POR_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Kashi Rudras vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
       "tournament": "Uttar Pradesh T20 League, 2026",
       "match_id": 4248334,
       "status": "UPCOMING",
       "startTime": "08:30:00 PM 14-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248334_53029_KAS_MER_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Finland vs Spain (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-      "match_id": 4248372,
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 14-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248372_53031_FIN_ESP_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Israel vs Portugal (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
-      "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-      "match_id": 4248380,
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 14-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248380_53031_ISR_POR_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -417,6 +417,43 @@
     },
     {
       "category": "Cricket",
+      "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
+      "tournament": "Afghanistan tour of Ireland, 2026",
+      "match_id": 4248051,
+      "status": "UPCOMING",
+      "startTime": "03:15:00 PM 15-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Singapore vs Uganda (ICC CWC Challenge League B 2026)",
       "tournament": "ICC CWC Challenge League B 2026",
       "match_id": 4248259,
@@ -491,43 +528,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
-      "tournament": "Afghanistan tour of Ireland, 2026",
-      "match_id": 4248051,
-      "status": "UPCOMING",
-      "startTime": "03:15:00 PM 15-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Isle of Man vs Spain (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
       "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
       "match_id": 4248368,
@@ -571,6 +571,43 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 15-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248370_53031_CZE_GRE_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "New Delhi Tigers vs South Delhi Superstarz (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247995,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 PM 15-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247995_53005_NDT_SDS_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -935,86 +972,49 @@
     },
     {
       "category": "Cricket",
-      "title": "Saint Lucia Kings vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248288,
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 15-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248288_53026_SLK_ABF_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "New Delhi Tigers vs South Delhi Superstarz (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247995,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 15-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247995_53005_NDT_SDS_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Lucknow Falcons vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
       "tournament": "Uttar Pradesh T20 League, 2026",
       "match_id": 4248336,
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 15-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Saint Lucia Kings vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248288,
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 15-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248288_53026_SLK_ABF_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1193,13 +1193,13 @@
       }
     },
     {
-      "category": "Motorsports",
-      "title": "Qualifying 1 vs Nurburgring, Germany (DTM 2026)",
-      "tournament": "DTM 2026",
-      "match_id": 143814,
+      "category": "Football",
+      "title": "Manchester United vs AC Milan (Club Friendlies 2026)",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248219,
       "status": "UPCOMING",
-      "startTime": "01:25:00 PM 15-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "startTime": "08:15:00 PM 15-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-AC-Milan-old-Match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1230,13 +1230,13 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Manchester United vs AC Milan (Club Friendlies 2026)",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248219,
+      "category": "Motorsports",
+      "title": "Qualifying 1 vs Nurburgring, Germany (DTM 2026)",
+      "tournament": "DTM 2026",
+      "match_id": 143814,
       "status": "UPCOMING",
-      "startTime": "08:15:00 PM 15-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-AC-Milan-old-Match-card.png",
+      "startTime": "01:25:00 PM 15-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
