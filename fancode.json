@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/08/2026, 02:24:18 pm",
-  "_src_updated": "07:44:21 PM 15-08-2026",
+  "updatedAt": "15/08/2026, 02:44:23 pm",
+  "_src_updated": "08:04:42 PM 15-08-2026",
   "total_matches": 38,
-  "live_matches": 11,
-  "upcoming_matches": 27,
+  "live_matches": 12,
+  "upcoming_matches": 26,
   "matches": [
     {
       "category": "Cricket",
@@ -232,6 +232,43 @@
     },
     {
       "category": "Football",
+      "title": "Manchester United vs AC Milan (Club Friendlies 2026)",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248219,
+      "status": "LIVE",
+      "startTime": "08:15:00 PM 15-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-AC-Milan-old-Match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786890881~_GO=Generated~acl=/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-di_h264/*~Signature=AVMBkTW7Igc967nue0INg8NGAVhfVYOcLcHzBBeeBV73i08j6yAMAe2qnj-jYn9wCAkar3zmBN3DTwyrSw_x9yFyKmgM"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
       "title": "York City vs Bristol Rovers (League Two 2026-27)",
       "tournament": "League Two 2026-27",
       "match_id": 4248162,
@@ -408,43 +445,6 @@
             "540p": "https://in-mc-flive.fancode.com/mumbai/143818_english_hls_29d439427396198_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786885376~_GO=Generated~acl=/mumbai/143818_english_hls_29d439427396198_1ta-di_h264/*~Signature=AVMBkTWEDX8HVR2yfE_6gMdzKTTG8C9ANX0AUSTxtRQiZKvgCHV_Gp8VLbTzzMw7tOFNshI8XNj4aj6mO3pgACR7b78J",
             "720p": "https://in-mc-flive.fancode.com/mumbai/143818_english_hls_29d439427396198_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786885376~_GO=Generated~acl=/mumbai/143818_english_hls_29d439427396198_1ta-di_h264/*~Signature=AVMBkTWEDX8HVR2yfE_6gMdzKTTG8C9ANX0AUSTxtRQiZKvgCHV_Gp8VLbTzzMw7tOFNshI8XNj4aj6mO3pgACR7b78J",
             "1080p": "https://in-mc-flive.fancode.com/mumbai/143818_english_hls_29d439427396198_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786885376~_GO=Generated~acl=/mumbai/143818_english_hls_29d439427396198_1ta-di_h264/*~Signature=AVMBkTWEDX8HVR2yfE_6gMdzKTTG8C9ANX0AUSTxtRQiZKvgCHV_Gp8VLbTzzMw7tOFNshI8XNj4aj6mO3pgACR7b78J"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Manchester United vs AC Milan (Club Friendlies 2026)",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248219,
-      "status": "UPCOMING",
-      "startTime": "08:15:00 PM 15-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-AC-Milan-old-Match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
           },
           "cookie": "",
           "expires": "1783167966",
@@ -1045,6 +1045,80 @@
       }
     },
     {
+      "category": "Football",
+      "title": "RCD Espanyol vs Levante (LALIGA 2026-27)",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247573,
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 16-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247573_53004_ESL_LET_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Liverpool vs Como (Club Friendlies 2026)",
+      "tournament": "Club Friendlies 2026",
+      "match_id": 4248027,
+      "status": "UPCOMING",
+      "startTime": "10:30:00 PM 16-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card_1785849655736.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Tennis",
       "title": "Court 8 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
       "tournament": "ATP Masters Cincinnati Open 2026",
@@ -1126,80 +1200,6 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 PM 15-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "RCD Espanyol vs Levante (LALIGA 2026-27)",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247573,
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 16-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247573_53004_ESL_LET_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Liverpool vs Como (Club Friendlies 2026)",
-      "tournament": "Club Friendlies 2026",
-      "match_id": 4248027,
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 16-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Leeds-old-match-card_1785849655736.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
