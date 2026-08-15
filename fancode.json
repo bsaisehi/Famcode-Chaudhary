@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/08/2026, 11:50:12 am",
-  "_src_updated": "05:11:44 PM 15-08-2026",
+  "updatedAt": "15/08/2026, 12:00:09 pm",
+  "_src_updated": "05:21:52 PM 15-08-2026",
   "total_matches": 39,
-  "live_matches": 8,
-  "upcoming_matches": 31,
+  "live_matches": 9,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -305,6 +305,43 @@
       }
     },
     {
+      "category": "Golf",
+      "title": "Main Feed - Day 3 vs TPC Southwind - Memphis, Tennessee (FedEx St. Jude Championship 2026)",
+      "tournament": "FedEx St. Jude Championship 2026",
+      "match_id": 4248408,
+      "status": "LIVE",
+      "startTime": "05:30:00 PM 15-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "New Delhi Tigers vs South Delhi Superstarz (Delhi Premier League, 2026)",
       "tournament": "Delhi Premier League, 2026",
@@ -490,6 +527,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Kashi Rudras vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248340,
+      "status": "UPCOMING",
+      "startTime": "03:00:00 PM 16-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248340_53029_KAS_KAN_FC-Web_1786702852064.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Football",
       "title": "Middlesbrough F.C. vs Lincoln City F.C. (EFL Championship 2026-27)",
       "tournament": "EFL Championship 2026-27",
@@ -571,43 +645,6 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 15-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247469_52993_SHF_BIR_fc-web_1786657253100.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Kashi Rudras vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248340,
-      "status": "UPCOMING",
-      "startTime": "03:00:00 PM 16-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248340_53029_KAS_KAN_FC-Web_1786702852064.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -830,43 +867,6 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 15-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248178_53017_RO_GRD_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Main Feed - Day 3 vs TPC Southwind - Memphis, Tennessee (FedEx St. Jude Championship 2026)",
-      "tournament": "FedEx St. Jude Championship 2026",
-      "match_id": 4248408,
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 15-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
