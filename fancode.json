@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/08/2026, 10:10:58 am",
-  "_src_updated": "03:30:24 PM 15-08-2026",
+  "updatedAt": "15/08/2026, 10:40:00 am",
+  "_src_updated": "04:00:46 PM 15-08-2026",
   "total_matches": 39,
-  "live_matches": 6,
-  "upcoming_matches": 33,
+  "live_matches": 7,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -232,6 +232,43 @@
     },
     {
       "category": "Cricket",
+      "title": "Oman vs Goa (Goa tour of Oman 2026)",
+      "tournament": "Goa tour of Oman 2026",
+      "match_id": 4248365,
+      "status": "LIVE",
+      "startTime": "04:00:00 PM 15-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "New Delhi Tigers vs South Delhi Superstarz (Delhi Premier League, 2026)",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4247995,
@@ -275,6 +312,43 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 15-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web_1786702852057.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Notts County vs Leicester City F.C. (League One 2026-27)",
+      "tournament": "League One 2026-27",
+      "match_id": 4248157,
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 15-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248157_53014_NC_LEI_fc-web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -349,6 +423,43 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 15-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248376_53031_GER_POR_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247990,
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 16-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -497,43 +608,6 @@
       "status": "UPCOMING",
       "startTime": "11:00:00 PM 15-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "North Delhi Strikers vs Central Delhi Kings (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247990,
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 16-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -713,43 +787,6 @@
     },
     {
       "category": "Football",
-      "title": "Notts County vs Leicester City F.C. (League One 2026-27)",
-      "tournament": "League One 2026-27",
-      "match_id": 4248157,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 15-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248157_53014_NC_LEI_fc-web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
       "title": "York City vs Bristol Rovers (League Two 2026-27)",
       "tournament": "League Two 2026-27",
       "match_id": 4248162,
@@ -823,13 +860,50 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Oman vs Goa (Goa tour of Oman 2026)",
-      "tournament": "Goa tour of Oman 2026",
-      "match_id": 4248365,
+      "category": "Motorsports",
+      "title": "Race 1 vs Nurburgring, Germany (DTM 2026)",
+      "tournament": "DTM 2026",
+      "match_id": 143815,
       "status": "UPCOMING",
-      "startTime": "04:00:00 PM 15-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png",
+      "startTime": "05:00:00 PM 15-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3 vs Golfpark Holzhausem (VP Bank Swiss Ladies Open 2026)",
+      "tournament": "VP Bank Swiss Ladies Open 2026",
+      "match_id": 4248322,
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 15-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -941,80 +1015,6 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 16-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247470_52993_WAT_SOU_fc-web_1786657253801.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Race 1 vs Nurburgring, Germany (DTM 2026)",
-      "tournament": "DTM 2026",
-      "match_id": 143815,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 15-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3 vs Golfpark Holzhausem (VP Bank Swiss Ladies Open 2026)",
-      "tournament": "VP Bank Swiss Ladies Open 2026",
-      "match_id": 4248322,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 15-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
