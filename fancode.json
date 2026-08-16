@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "16/08/2026, 03:09:23 am",
-  "_src_updated": "08:36:13 AM 16-08-2026",
+  "updatedAt": "16/08/2026, 03:55:43 am",
+  "_src_updated": "09:16:39 AM 16-08-2026",
   "total_matches": 36,
   "live_matches": 2,
   "upcoming_matches": 34,
@@ -527,43 +527,6 @@
       }
     },
     {
-      "category": "Motorsports",
-      "title": "Race 2 vs Nurburgring, Germany (DTM 2026)",
-      "tournament": "DTM 2026",
-      "match_id": 143816,
-      "status": "UPCOMING",
-      "startTime": "12:40:00 PM 16-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Hong Kong, China vs Italy (ICC CWC Challenge League B 2026)",
       "tournament": "ICC CWC Challenge League B 2026",
@@ -608,6 +571,43 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 AM 17-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Race 2 vs Nurburgring, Germany (DTM 2026)",
+      "tournament": "DTM 2026",
+      "match_id": 143816,
+      "status": "UPCOMING",
+      "startTime": "12:40:00 PM 16-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
