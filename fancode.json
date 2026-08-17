@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/08/2026, 09:35:09 am",
-  "_src_updated": "03:02:59 PM 17-08-2026",
+  "updatedAt": "17/08/2026, 10:07:01 am",
+  "_src_updated": "03:33:25 PM 17-08-2026",
   "total_matches": 38,
   "live_matches": 6,
   "upcoming_matches": 32,
@@ -379,6 +379,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Purani Dilli-6 vs North Delhi Strikers (Delhi Premier League, 2026)",
+      "tournament": "Delhi Premier League, 2026",
+      "match_id": 4247994,
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 18-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Football",
       "title": "Cardiff City vs Wrexham A.F.C. (EFL Championship 2026-27)",
       "tournament": "EFL Championship 2026-27",
@@ -423,43 +460,6 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 18-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247574_53004_COR_ELC_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Purani Dilli-6 vs North Delhi Strikers (Delhi Premier League, 2026)",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": 4247994,
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 18-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
