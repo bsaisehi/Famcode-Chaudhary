@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/08/2026, 02:20:57 pm",
-  "_src_updated": "07:47:42 PM 18-08-2026",
+  "updatedAt": "18/08/2026, 02:58:15 pm",
+  "_src_updated": "08:18:22 PM 18-08-2026",
   "total_matches": 39,
-  "live_matches": 4,
-  "upcoming_matches": 35,
+  "live_matches": 5,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -157,6 +157,43 @@
       }
     },
     {
+      "category": "Tennis",
+      "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248127,
+      "status": "LIVE",
+      "startTime": "08:30:00 PM 18-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "North Delhi Strikers vs South Delhi Superstarz (Delhi Premier League, 2026)",
       "tournament": "Delhi Premier League, 2026",
@@ -238,43 +275,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 19-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248329_53029_LCK_MER_FC-Web_1786702851437.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248127,
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 18-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
