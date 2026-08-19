@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "19/08/2026, 04:25:53 pm",
-  "_src_updated": "09:49:32 PM 19-08-2026",
+  "updatedAt": "19/08/2026, 04:53:47 pm",
+  "_src_updated": "10:09:49 PM 19-08-2026",
   "total_matches": 39,
   "live_matches": 4,
   "upcoming_matches": 35,
@@ -490,13 +490,13 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248285,
+      "category": "Football",
+      "title": "Rayo Vallecano vs Deportivo Alaves (LALIGA 2026-27)",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247586,
       "status": "UPCOMING",
-      "startTime": "04:30:00 AM 20-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248285_53026_SLK_GUY_FC-Web.png",
+      "startTime": "12:30:00 AM 21-08-2026",
+      "image": "https://images.fancode.com/aig/match/v1787128434490/4247586_CASACARDS_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -527,13 +527,13 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Rayo Vallecano vs Deportivo Alaves (LALIGA 2026-27)",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247586,
+      "category": "Cricket",
+      "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248285,
       "status": "UPCOMING",
-      "startTime": "12:30:00 AM 21-08-2026",
-      "image": "https://images.fancode.com/aig/match/v1787128434490/4247586_CASACARDS_APP.png",
+      "startTime": "04:30:00 AM 20-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248285_53026_SLK_GUY_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1194,43 +1194,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Northern Territory Strike vs Nepal (Top End T20 Series, 2026)",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248426,
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 21-08-2026",
-      "image": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "TBC vs TBC (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
       "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
       "match_id": 4248389,
@@ -1274,6 +1237,43 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 21-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Northern Territory Strike vs Nepal (Top End T20 Series, 2026)",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248426,
+      "status": "UPCOMING",
+      "startTime": "02:00:00 PM 21-08-2026",
+      "image": "https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_APP.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
