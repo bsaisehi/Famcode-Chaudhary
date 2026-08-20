@@ -2,12 +2,49 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "20/08/2026, 08:50:49 am",
-  "_src_updated": "02:10:50 PM 20-08-2026",
+  "updatedAt": "20/08/2026, 09:22:06 am",
+  "_src_updated": "02:51:18 PM 20-08-2026",
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Gaur Gorakhpur Lions vs Noida Kings (Uttar Pradesh T20 League, 2026)",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248331,
+      "status": "LIVE",
+      "startTime": "03:00:00 PM 20-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Portugal vs Czechia (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
@@ -112,43 +149,6 @@
             "540p": "https://in-mc-flive.fancode.com/mumbai/4248495_english_hls_6907ec628088216_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787298612~_GO=Generated~acl=/mumbai/4248495_english_hls_6907ec628088216_1ta-di_h264/*~Signature=ARceAWNdHIMw5ASev2ZlK2Zop0feUepGATM9WXDEBrvOzTwrGX2kiu_i8ofZwDQygbItZvl36x7YFJJIn1r3NiepSAIP",
             "720p": "https://in-mc-flive.fancode.com/mumbai/4248495_english_hls_6907ec628088216_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787298612~_GO=Generated~acl=/mumbai/4248495_english_hls_6907ec628088216_1ta-di_h264/*~Signature=ARceAWNdHIMw5ASev2ZlK2Zop0feUepGATM9WXDEBrvOzTwrGX2kiu_i8ofZwDQygbItZvl36x7YFJJIn1r3NiepSAIP",
             "1080p": "https://in-mc-flive.fancode.com/mumbai/4248495_english_hls_6907ec628088216_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787298612~_GO=Generated~acl=/mumbai/4248495_english_hls_6907ec628088216_1ta-di_h264/*~Signature=ARceAWNdHIMw5ASev2ZlK2Zop0feUepGATM9WXDEBrvOzTwrGX2kiu_i8ofZwDQygbItZvl36x7YFJJIn1r3NiepSAIP"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Gaur Gorakhpur Lions vs Noida Kings (Uttar Pradesh T20 League, 2026)",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248331,
-      "status": "UPCOMING",
-      "startTime": "03:00:00 PM 20-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
           },
           "cookie": "",
           "expires": "1783167966",
@@ -786,80 +786,6 @@
       }
     },
     {
-      "category": "Tennis",
-      "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248136,
-      "status": "UPCOMING",
-      "startTime": "06:00:00 AM 21-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Hobart Hurricanes Academy vs Victoria CA XI (Top End T20 Series, 2026)",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248427,
-      "status": "UPCOMING",
-      "startTime": "06:00:00 AM 21-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "TBC vs TBC (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
       "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
@@ -903,6 +829,80 @@
       "match_id": 4248390,
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 21-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed 2 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248136,
+      "status": "UPCOMING",
+      "startTime": "06:00:00 AM 21-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Hobart Hurricanes Academy vs Victoria CA XI (Top End T20 Series, 2026)",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248427,
+      "status": "UPCOMING",
+      "startTime": "06:00:00 AM 21-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
