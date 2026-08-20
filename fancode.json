@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "20/08/2026, 04:05:27 pm",
-  "_src_updated": "09:26:20 PM 20-08-2026",
+  "updatedAt": "20/08/2026, 04:46:27 pm",
+  "_src_updated": "10:06:54 PM 20-08-2026",
   "total_matches": 39,
-  "live_matches": 4,
-  "upcoming_matches": 35,
+  "live_matches": 5,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -157,6 +157,43 @@
       }
     },
     {
+      "category": "Tennis",
+      "title": "Men's Doubles ft. Ram vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
+      "tournament": "ATP Masters Cincinnati Open 2026",
+      "match_id": 4248135,
+      "status": "LIVE",
+      "startTime": "10:00:00 PM 20-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787328997~_GO=Generated~acl=/mumbai/4248135_english_hls_69a4d159cc87321_1ta-di_h264/*~Signature=ARceAWNl0bLKNS8CrnaLqA4lORt96tu-pB5S_CrxuTb09XZ_xjylOzQ03H04DXAmiMZN7P847ky2S94dSU8zEdf-1F4D"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Meerut Mavericks vs Noida Kings (Uttar Pradesh T20 League, 2026)",
       "tournament": "Uttar Pradesh T20 League, 2026",
@@ -231,6 +268,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Lucknow Falcons vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248328,
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 21-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Football",
       "title": "Al-Fayha FC vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -275,43 +349,6 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 21-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247586_53004_RVL_ALA_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Lucknow Falcons vs Kanpur Superstars (Uttar Pradesh T20 League, 2026)",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": 4248328,
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 21-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -423,43 +460,6 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 21-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248158_53014_SHFF_BC_fc-web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Men's Doubles ft. Ram vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)",
-      "tournament": "ATP Masters Cincinnati Open 2026",
-      "match_id": 4248135,
-      "status": "UPCOMING",
-      "startTime": "10:00:00 PM 20-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -608,6 +608,43 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 21-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248272_53025_ALQ_ITT_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Real Betis vs Real Sociedad (LALIGA 2026-27)",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247580,
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 22-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -793,43 +830,6 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 AM 21-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Real Betis vs Real Sociedad (LALIGA 2026-27)",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247580,
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 22-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
