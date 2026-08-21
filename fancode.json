@@ -2,12 +2,49 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/08/2026, 05:00:23 am",
-  "_src_updated": "10:26:13 AM 21-08-2026",
+  "updatedAt": "21/08/2026, 05:41:22 am",
+  "_src_updated": "11:06:57 AM 21-08-2026",
   "total_matches": 38,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Australian Capital Territory vs Hyderabad Kingsmen (Top End T20 Series, 2026)",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248428,
+      "status": "LIVE",
+      "startTime": "11:00:00 AM 21-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248428_53036_ACT_HYK_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787375801~_GO=Generated~acl=/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/*~Signature=ARceAWMgVqJM6qWT-UIFswuZmeLjSPG5Afp-fv1K7XD6B_3Odm7mb6UK3Wgr-3qJ0Deh_lHxe7-9_rzlIC8iKLCfL9oH"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Meerut Mavericks vs Noida Kings (Uttar Pradesh T20 League, 2026)",
@@ -379,43 +416,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Australian Capital Territory vs Hyderabad Kingsmen (Top End T20 Series, 2026)",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248428,
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 21-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248428_53036_ACT_HYK_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "Córdoba vs Girona FC (LALIGA Hypermotion 2026-27)",
       "tournament": "LALIGA Hypermotion 2026-27",
@@ -460,6 +460,43 @@
       "status": "UPCOMING",
       "startTime": "03:00:00 PM 22-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248330_53029_KAS_GOR_FC-Web_1786702851578.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Rawain Royals vs Someshwar Warriors (Uttarkashi T20 League 2026)",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248509,
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 22-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -682,43 +719,6 @@
       "status": "UPCOMING",
       "startTime": "08:00:00 PM 21-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Rawain Royals vs Someshwar Warriors (Uttarkashi T20 League 2026)",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248509,
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 22-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1267,13 +1267,13 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "South Delhi Superstarz Women vs North Delhi Strikers Women (Women's Delhi Premier League, 2026)",
-      "tournament": "Women's Delhi Premier League, 2026",
-      "match_id": 4247555,
+      "category": "Football",
+      "title": "West Ham United vs Charlton Athletic F.C (EFL Championship 2026-27)",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247474,
       "status": "UPCOMING",
-      "startTime": "01:30:00 PM 22-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247555_53003_SDS-W_NDS-W_FC-Web_1787120909812.png",
+      "startTime": "07:30:00 PM 22-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247474_52993_WHU_CHL_fc-web_1786657253142.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1304,13 +1304,13 @@
       }
     },
     {
-      "category": "Football",
-      "title": "West Ham United vs Charlton Athletic F.C (EFL Championship 2026-27)",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247474,
+      "category": "Cricket",
+      "title": "South Delhi Superstarz Women vs North Delhi Strikers Women (Women's Delhi Premier League, 2026)",
+      "tournament": "Women's Delhi Premier League, 2026",
+      "match_id": 4247555,
       "status": "UPCOMING",
-      "startTime": "07:30:00 PM 22-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247474_52993_WHU_CHL_fc-web_1786657253142.jpg",
+      "startTime": "01:30:00 PM 22-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247555_53003_SDS-W_NDS-W_FC-Web_1787120909812.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
