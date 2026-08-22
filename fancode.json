@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/08/2026, 05:42:02 pm",
-  "_src_updated": "11:05:20 PM 22-08-2026",
+  "updatedAt": "22/08/2026, 05:58:23 pm",
+  "_src_updated": "11:25:36 PM 22-08-2026",
   "total_matches": 38,
-  "live_matches": 9,
-  "upcoming_matches": 29,
+  "live_matches": 10,
+  "upcoming_matches": 28,
   "matches": [
     {
       "category": "Cricket",
@@ -149,6 +149,43 @@
             "540p": "https://in-mc-flive.fancode.com/mumbai/4247585_english_hls_6df95d741915198_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787504696~_GO=Generated~acl=/mumbai/4247585_english_hls_6df95d741915198_1ta-di_h264/*~Signature=ARceAWOvSPOjNpL33NEdJqUrSMDgEZLJdNGiCQQ0CdoXlM7czyk1llVuJoRXB4oaxZYoc8nO1MBcjnPBH1hfeHOEXZUD",
             "720p": "https://in-mc-flive.fancode.com/mumbai/4247585_english_hls_6df95d741915198_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787504696~_GO=Generated~acl=/mumbai/4247585_english_hls_6df95d741915198_1ta-di_h264/*~Signature=ARceAWOvSPOjNpL33NEdJqUrSMDgEZLJdNGiCQQ0CdoXlM7czyk1llVuJoRXB4oaxZYoc8nO1MBcjnPBH1hfeHOEXZUD",
             "1080p": "https://in-mc-flive.fancode.com/mumbai/4247585_english_hls_6df95d741915198_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787504696~_GO=Generated~acl=/mumbai/4247585_english_hls_6df95d741915198_1ta-di_h264/*~Signature=ARceAWOvSPOjNpL33NEdJqUrSMDgEZLJdNGiCQQ0CdoXlM7czyk1llVuJoRXB4oaxZYoc8nO1MBcjnPBH1hfeHOEXZUD"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Al-Ahli Saudi FC vs Abha (Roshn Saudi League 2026-2027)",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": 4248274,
+      "status": "LIVE",
+      "startTime": "11:30:00 PM 22-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248274_53025_AAS_ABC_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -349,43 +386,6 @@
       "status": "UPCOMING",
       "startTime": "03:00:00 PM 23-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248342_53029_LCK_NOI_FC-Web_1786702851678.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Al-Ahli Saudi FC vs Abha (Roshn Saudi League 2026-2027)",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": 4248274,
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 22-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248274_53025_AAS_ABC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
