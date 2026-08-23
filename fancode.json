@@ -2,10 +2,10 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/08/2026, 02:18:46 pm",
-  "_src_updated": "07:40:26 PM 23-08-2026",
-  "total_matches": 38,
-  "live_matches": 6,
+  "updatedAt": "23/08/2026, 02:43:24 pm",
+  "_src_updated": "08:10:54 PM 23-08-2026",
+  "total_matches": 39,
+  "live_matches": 7,
   "upcoming_matches": 32,
   "matches": [
     {
@@ -120,6 +120,43 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Atletico de Madrid vs Villarreal CF (LALIGA 2026-27)",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247578,
+      "status": "LIVE",
+      "startTime": "08:30:00 PM 23-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787581845~_GO=Generated~acl=/mumbai/4247578_english_hls_ccb3ca015a31584_1ta-di_h264/*~Signature=ARceAWOwtnnufGQfTab6u0gY15SL7lp9c1NNtbVxmPk8Wqh7jz1amr4cduXPQDagpCCbfdS3dSXvcD0KF9r5zJIF2ZkA"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Formula 1",
       "title": "Race vs Circuit Zandvoort (F1 HEINEKEN DUTCH GRAND PRIX 2026)",
       "tournament": "F1 HEINEKEN DUTCH GRAND PRIX 2026",
@@ -223,43 +260,6 @@
             "540p": "https://in-mc-flive.fancode.com/mumbai/4248534_english_hls_1c0f4b2bc11886_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787576366~_GO=Generated~acl=/mumbai/4248534_english_hls_1c0f4b2bc11886_1ta-di_h264/*~Signature=ARceAWOOlU_3O2dZR8tckNG-7593N47OQGLpNK6ADDuiTWH6smkgVB4VEXl7_6AM54FsKNmHEm9ONZYTbWVPc2lXx14M",
             "720p": "https://in-mc-flive.fancode.com/mumbai/4248534_english_hls_1c0f4b2bc11886_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787576366~_GO=Generated~acl=/mumbai/4248534_english_hls_1c0f4b2bc11886_1ta-di_h264/*~Signature=ARceAWOOlU_3O2dZR8tckNG-7593N47OQGLpNK6ADDuiTWH6smkgVB4VEXl7_6AM54FsKNmHEm9ONZYTbWVPc2lXx14M",
             "1080p": "https://in-mc-flive.fancode.com/mumbai/4248534_english_hls_1c0f4b2bc11886_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787576366~_GO=Generated~acl=/mumbai/4248534_english_hls_1c0f4b2bc11886_1ta-di_h264/*~Signature=ARceAWOOlU_3O2dZR8tckNG-7593N47OQGLpNK6ADDuiTWH6smkgVB4VEXl7_6AM54FsKNmHEm9ONZYTbWVPc2lXx14M"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Atletico de Madrid vs Villarreal CF (LALIGA 2026-27)",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247578,
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 23-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247578_53004_ATM_VIL_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
           },
           "cookie": "",
           "expires": "1783167966",
@@ -823,43 +823,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Northern Territory Strike vs Hyderabad Kingsmen (Top End T20 Series, 2026)",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248430,
-      "status": "UPCOMING",
-      "startTime": "06:00:00 AM 24-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "CA Osasuna vs Levante (LALIGA 2026-27)",
       "tournament": "LALIGA 2026-27",
@@ -898,12 +861,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
+      "title": "Northern Territory Strike vs Hyderabad Kingsmen (Top End T20 Series, 2026)",
       "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248429,
+      "match_id": 4248430,
       "status": "UPCOMING",
-      "startTime": "10:30:00 AM 24-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
+      "startTime": "06:00:00 AM 24-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -941,6 +904,43 @@
       "status": "UPCOMING",
       "startTime": "11:30:00 PM 24-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": 4248429,
+      "status": "UPCOMING",
+      "startTime": "10:30:00 AM 24-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1385,6 +1385,43 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 25-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787120909655.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Rawain Royals vs Baragaddi Kings (Uttarkashi T20 League 2026)",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248515,
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 25-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
