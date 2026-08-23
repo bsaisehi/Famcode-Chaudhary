@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/08/2026, 04:43:37 pm",
-  "_src_updated": "10:12:45 PM 23-08-2026",
+  "updatedAt": "23/08/2026, 05:01:56 pm",
+  "_src_updated": "10:22:53 PM 23-08-2026",
   "total_matches": 40,
   "live_matches": 8,
   "upcoming_matches": 32,
@@ -823,6 +823,43 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Málaga vs Deportivo de La Coruna (LALIGA 2026-27)",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247587,
+      "status": "UPCOMING",
+      "startTime": "01:00:00 AM 25-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
       "tournament": "Caribbean Premier League, 2026",
@@ -867,43 +904,6 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 AM 24-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Málaga vs Deportivo de La Coruna (LALIGA 2026-27)",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247587,
-      "status": "UPCOMING",
-      "startTime": "01:00:00 AM 25-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
