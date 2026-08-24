@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/08/2026, 04:50:22 pm",
-  "_src_updated": "10:10:42 PM 24-08-2026",
+  "updatedAt": "24/08/2026, 05:20:43 pm",
+  "_src_updated": "10:41:05 PM 24-08-2026",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -158,12 +158,49 @@
     },
     {
       "category": "Football",
-      "title": "CA Osasuna vs Levante (LALIGA 2026-27)",
+      "title": "LALIGA 2026-27 [English]",
       "tournament": "LALIGA 2026-27",
-      "match_id": 4247579,
-      "status": "UPCOMING",
+      "match_id": "4247579_ENG",
+      "status": "LIVE",
       "startTime": "11:00:00 PM 24-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Al-Ittihad vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": 4248276,
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 24-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -275,43 +312,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 25-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Al-Ittihad vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": 4248276,
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 24-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248276_53025_ITT_HAZ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -460,6 +460,43 @@
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 25-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": 4248151,
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 24-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -830,43 +867,6 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 26-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248503_53016_NOT_LU_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248151,
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 24-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
