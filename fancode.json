@@ -2,12 +2,49 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/08/2026, 04:18:41 am",
-  "_src_updated": "09:38:58 AM 25-08-2026",
+  "updatedAt": "25/08/2026, 04:56:45 am",
+  "_src_updated": "10:19:23 AM 25-08-2026",
   "total_matches": 37,
-  "live_matches": 0,
-  "upcoming_matches": 37,
+  "live_matches": 1,
+  "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Top End T20 Series, 2026 [English]",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": "4248440_ENG",
+      "status": "LIVE",
+      "startTime": "10:30:00 AM 25-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787719762~_GO=Generated~acl=/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/*~Signature=ARB3KG1SRY78G0lF96ltn9LEpF4ZjrwllrfdJyD5VPW18sc7dQdjXev1_sCSAVUszz5WI-m-YzR0QqsmZ79VS8Sx9hkP"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Kanpur Superstars vs Meerut Mavericks (Uttar Pradesh T20 League, 2026)",
@@ -565,43 +602,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Hyderabad Kingsmen Academy vs New Zealand A (Top End T20 Series, 2026)",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248440,
-      "status": "UPCOMING",
-      "startTime": "10:30:00 AM 25-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248440_53036_HYK_NZ-A_fc-web_1787393618652.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "TBC vs TBC (Delhi Premier League, 2026)",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4248001,
@@ -749,13 +749,13 @@
       }
     },
     {
-      "category": "Tennis",
-      "title": "ATP 250 - Winston-Salem Open 2026 vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248152,
+      "category": "Cricket",
+      "title": "Taknor Tigers vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248516,
       "status": "UPCOMING",
-      "startTime": "10:00:00 PM 25-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+      "startTime": "01:30:00 PM 26-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -786,13 +786,13 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Taknor Tigers vs Bhagirathi Giants (Uttarkashi T20 League 2026)",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248516,
+      "category": "Tennis",
+      "title": "ATP 250 - Winston-Salem Open 2026 vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": 4248152,
       "status": "UPCOMING",
-      "startTime": "01:30:00 PM 26-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248516_53041_TT_BG_FC-Web.jpg",
+      "startTime": "10:00:00 PM 25-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
