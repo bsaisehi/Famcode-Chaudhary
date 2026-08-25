@@ -2,49 +2,12 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/08/2026, 06:51:56 pm",
-  "_src_updated": "12:20:08 AM 26-08-2026",
-  "total_matches": 38,
-  "live_matches": 11,
+  "updatedAt": "25/08/2026, 07:21:42 pm",
+  "_src_updated": "12:50:30 AM 26-08-2026",
+  "total_matches": 37,
+  "live_matches": 10,
   "upcoming_matches": 27,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Delhi Premier League, 2026 [English]",
-      "tournament": "Delhi Premier League, 2026",
-      "match_id": "4248004_ENG",
-      "status": "LIVE",
-      "startTime": "07:00:00 PM 25-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787750114~_GO=Generated~acl=/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/*~Signature=ARB3KG3gwAMh9SeoBYe_aND68SyzN_2jb1jKGz2M27kkp9AqoEtVt25jOyRsD4EZFKBmHNhEanc9gRsQPL9XYtYWFREI"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
     {
       "category": "Football",
       "title": "Roshn Saudi League 2026-2027 [English]",
@@ -417,12 +380,12 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC (Delhi Premier League, 2026)",
+      "title": "Central Delhi Kings vs South Delhi Superstarz (Delhi Premier League, 2026)",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4248001,
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 26-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247981_53005_SDS_CDK_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -491,12 +454,12 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC (Delhi Premier League, 2026)",
+      "title": "Purani Dilli-6 vs Outer Delhi Warriors (Delhi Premier League, 2026)",
       "tournament": "Delhi Premier League, 2026",
       "match_id": 4248005,
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 26-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247980_53005_PD_ODW_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
