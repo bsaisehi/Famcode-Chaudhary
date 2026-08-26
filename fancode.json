@@ -2,11 +2,11 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/08/2026, 09:35:01 am",
-  "_src_updated": "03:00:30 PM 26-08-2026",
-  "total_matches": 38,
+  "updatedAt": "26/08/2026, 10:08:26 am",
+  "_src_updated": "03:30:51 PM 26-08-2026",
+  "total_matches": 39,
   "live_matches": 5,
-  "upcoming_matches": 33,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -601,13 +601,13 @@
       }
     },
     {
-      "category": "Tennis",
-      "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
-      "tournament": "ATP 250 - Winston-Salem Open 2026",
-      "match_id": 4248153,
+      "category": "Cricket",
+      "title": "Taknor Tigers vs Someshwar Warriors (Uttarkashi T20 League 2026)",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248519,
       "status": "UPCOMING",
-      "startTime": "11:30:00 PM 26-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
+      "startTime": "06:00:00 PM 27-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248519_53041_TT_SW_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -638,13 +638,13 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Taknor Tigers vs Someshwar Warriors (Uttarkashi T20 League 2026)",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248519,
+      "category": "Tennis",
+      "title": "World Feed vs Winston-Salem, United States (ATP 250 - Winston-Salem Open 2026)",
+      "tournament": "ATP 250 - Winston-Salem Open 2026",
+      "match_id": 4248153,
       "status": "UPCOMING",
-      "startTime": "06:00:00 PM 27-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248519_53041_TT_SW_FC-Web.jpg",
+      "startTime": "11:30:00 PM 26-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1385,6 +1385,43 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 28-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247556_53003_SDS-W_EDR-W_FC-Web_1787555684559.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Baragaddi Kings vs Taknor Tigers (Uttarkashi T20 League 2026)",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248521,
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 28-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248521_53041_BK_TT_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
