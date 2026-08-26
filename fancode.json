@@ -2,12 +2,49 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/08/2026, 11:53:18 pm",
-  "_src_updated": "05:13:44 AM 26-08-2026",
+  "updatedAt": "26/08/2026, 12:34:53 am",
+  "_src_updated": "06:04:24 AM 26-08-2026",
   "total_matches": 37,
-  "live_matches": 2,
-  "upcoming_matches": 35,
+  "live_matches": 3,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Top End T20 Series, 2026 [English]",
+      "tournament": "Top End T20 Series, 2026",
+      "match_id": "4248441_ENG",
+      "status": "LIVE",
+      "startTime": "06:00:00 AM 26-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787790255~_GO=Generated~acl=/mumbai/4248441_english_hls_f2f617ef4b12783_1ta-di_h264/*~Signature=ARB3KG0XFGsyoE5d62Xh0Y3yKqUcCwkxZwi8sJXkXhzZmu4uEDDwRSjKTryM_wFTlC0S4UpN13TOAB_E9aTs6HN0UTID"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
     {
       "category": "Tennis",
       "title": "ATP 250 - Winston-Salem Open 2026 [English]",
@@ -201,43 +238,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 26-08-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248356_53029_NOI_KAS_FC-Web_1786702852108.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "New Zealand A vs Victoria Academy (Top End T20 Series, 2026)",
-      "tournament": "Top End T20 Series, 2026",
-      "match_id": 4248441,
-      "status": "UPCOMING",
-      "startTime": "06:00:00 AM 26-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248441_53036_NZ-A_VA_fc-web_1787393618588.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
