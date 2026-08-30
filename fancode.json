@@ -2,86 +2,12 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "30/08/2026, 05:47:21 pm",
-  "_src_updated": "11:17:14 PM 30-08-2026",
-  "total_matches": 40,
-  "live_matches": 10,
-  "upcoming_matches": 30,
+  "updatedAt": "30/08/2026, 08:04:31 pm",
+  "_src_updated": "01:28:48 AM 31-08-2026",
+  "total_matches": 38,
+  "live_matches": 6,
+  "upcoming_matches": 32,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Uttar Pradesh T20 League, 2026 [Hindi]",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248351_HIN",
-      "status": "LIVE",
-      "startTime": "07:30:00 PM 30-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248351_53029_NOI_MER_FC-Web_1786702851643.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184441~_GO=Generated~acl=/mumbai/4248351_hindi_hls_13d0ce368533583_1ta-di_h264/*~Signature=ARB3KG0qJQiGdLhJIbib6yivswhLkOFR8SduWer6q0wsB8cbpEddBnT_Q3E1euXxsYkbg83gTv88eVPdtqYn_iXCSSQK"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Uttar Pradesh T20 League, 2026 [Bhojpuri]",
-      "tournament": "Uttar Pradesh T20 League, 2026",
-      "match_id": "4248351_BHO",
-      "status": "LIVE",
-      "startTime": "07:30:00 PM 30-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248351_53029_NOI_MER_FC-Web_1786702851643.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788184442~_GO=Generated~acl=/mumbai/4248351_bhojpuri_hls_d6b27a6fcd44558_1ta-di_h264/*~Signature=ARB3KG07boMSYnSKYh6Xfxx88Kll9e3z7UqpJ3txCwu1_GxJfSIkywT9xOS4-p3E4ksaeEH4cezeqlFJ5AkaIDjW10ME"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Delhi Premier League, 2026 [English]",
@@ -112,117 +38,6 @@
             "540p": "https://in-mc-flive.fancode.com/mumbai/4248007_english_hls_25966de3c81083_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788186267~_GO=Generated~acl=/mumbai/4248007_english_hls_25966de3c81083_1ta-di_h264/*~Signature=ARB3KG229HycffIPzJWlYLOvCufn5O1mxMcGSX-GzWKtgEFm1zc6mOM2F64q2S3ALVlwOjn94WmBjDA57PliD7uKt8QE",
             "720p": "https://in-mc-flive.fancode.com/mumbai/4248007_english_hls_25966de3c81083_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788186267~_GO=Generated~acl=/mumbai/4248007_english_hls_25966de3c81083_1ta-di_h264/*~Signature=ARB3KG229HycffIPzJWlYLOvCufn5O1mxMcGSX-GzWKtgEFm1zc6mOM2F64q2S3ALVlwOjn94WmBjDA57PliD7uKt8QE",
             "1080p": "https://in-mc-flive.fancode.com/mumbai/4248007_english_hls_25966de3c81083_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788186267~_GO=Generated~acl=/mumbai/4248007_english_hls_25966de3c81083_1ta-di_h264/*~Signature=ARB3KG229HycffIPzJWlYLOvCufn5O1mxMcGSX-GzWKtgEFm1zc6mOM2F64q2S3ALVlwOjn94WmBjDA57PliD7uKt8QE"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Oman D50 2026 [English]",
-      "tournament": "Oman D50 2026",
-      "match_id": "4248666_ENG",
-      "status": "LIVE",
-      "startTime": "04:00:00 PM 30-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248666_53052_MAT_MUT_fc-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788171675~_GO=Generated~acl=/mumbai/4248666_english_hls_46ecafda0339091_1ta-di_h264/*~Signature=ARB3KG2SuPAzyXxAbW7Gu392U5hD0n5hgNeAal8SYXk9r24LYe99m8kz5GwBHn6dopeDmaSCBLOUQBcZQ-M6kpydP8sJ"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Uttarkashi T20 League 2026 [English]",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": "4248525_ENG",
-      "status": "LIVE",
-      "startTime": "06:00:00 PM 30-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248523_53041_BNR_BK_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788178964~_GO=Generated~acl=/mumbai/4248525_english_hls_7d6182bd4792996_1ta-di_h264/*~Signature=ARB3KG2POS2kQmX5DNkyo3S4dWP1Y8kZGLE_5fhZ6twYzwhCXX-pk8oohO0_PgzdsThZ9-heBxI68OzGt44m2nCkOt4J"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "LALIGA 2026-27 [English]",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247594_ENG",
-      "status": "LIVE",
-      "startTime": "11:00:00 PM 30-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247594_53004_COR_VAL_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -269,34 +84,34 @@
     },
     {
       "category": "Football",
-      "title": "LALIGA Hypermotion 2026-27 [English]",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": "4248397_ENG",
+      "title": "LALIGA 2026-27 [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247589_ENG",
       "status": "LIVE",
-      "startTime": "10:30:00 PM 30-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248397_53017_CDZ_VLD_FC-Web.png",
+      "startTime": "01:00:00 AM 31-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247589_53004_CEV_ATH_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
         "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH"
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788194789~_GO=Generated~acl=/mumbai/4248397_english_hls_6e1138a1041336_1ta-di_h264/*~Signature=ARB3KG0KW4MwO0-aJN8mAM95ZR2raOZ81tfVuV13MWTZSKDOK6owChV3I-IO01MP9qnIVdiHsqeJwKF79R3mhbbpakEH"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788203289~_GO=Generated~acl=/mumbai/4247589_english_hls_6655aa097869518_1ta-di_h264/*~Signature=ARB3KG2DmTlc3QZTg5x3T5SHd9KWFsRR4BzowN2KqBfOoP3M2cQi9u78kkkW4659aFWQkvAUN6V6O9KEVRZe3D408twP"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -379,6 +194,43 @@
       }
     },
     {
+      "category": "Football",
+      "title": "LALIGA 2026-27 [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247594_ENG",
+      "status": "LIVE",
+      "startTime": "11:00:00 PM 30-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247594_53004_COR_VAL_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788196006~_GO=Generated~acl=/mumbai/4247594_english_hls_062a5d39cf44512_1ta-di_h264/*~Signature=ARB3KG1Ftqzqr1I0xpihrXSTKs7o7RhTkoPRYMnkNwqDMF5rCaw7u2Vq5n1k2U2s7rl7bEH1v7BsVx-oCc5ZHt3GpCgO"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Kanpur Superstars vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
       "tournament": "Uttar Pradesh T20 League, 2026",
@@ -453,43 +305,6 @@
       }
     },
     {
-      "category": "Football",
-      "title": "RC Celta vs Athletic Club (LALIGA 2026-27)",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247589,
-      "status": "UPCOMING",
-      "startTime": "01:00:00 AM 31-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247589_53004_CEV_ATH_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "United Arab Emirates vs Qatar (ACC Men’s Premier Cup 2026)",
       "tournament": "ACC Men’s Premier Cup 2026",
@@ -528,12 +343,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Mustafa Fragrance House Strikers vs Royal Oman Stallions (Oman D50 2026)",
-      "tournament": "Oman D50 2026",
-      "match_id": 4248667,
+      "title": "Baukh Night Riders vs Taknor Tigers (Uttarkashi T20 League 2026)",
+      "tournament": "Uttarkashi T20 League 2026",
+      "match_id": 4248526,
       "status": "UPCOMING",
-      "startTime": "04:00:00 PM 31-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248667_53052_MF_ROS_fc-Web.jpg",
+      "startTime": "11:00:00 AM 31-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -565,12 +380,12 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC (Uttarkashi T20 League 2026)",
-      "tournament": "Uttarkashi T20 League 2026",
-      "match_id": 4248526,
+      "title": "Mustafa Fragrance House Strikers vs Royal Oman Stallions (Oman D50 2026)",
+      "tournament": "Oman D50 2026",
+      "match_id": 4248667,
       "status": "UPCOMING",
-      "startTime": "06:00:00 PM 31-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "04:00:00 PM 31-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248667_53052_MF_ROS_fc-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -675,13 +490,13 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "St Kitts and Nevis Patriots vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248303,
+      "category": "Football",
+      "title": "RC Celta Fortuna vs Castellón (LALIGA Hypermotion 2026-27)",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248398,
       "status": "UPCOMING",
-      "startTime": "04:30:00 AM 31-08-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248303_53026_SKN_ABF_FC-Web.png",
+      "startTime": "01:00:00 AM 01-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248398_53017_CF_CAS_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -712,13 +527,13 @@
       }
     },
     {
-      "category": "Football",
-      "title": "RC Celta Fortuna vs Castellón (LALIGA Hypermotion 2026-27)",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4248398,
+      "category": "Cricket",
+      "title": "St Kitts and Nevis Patriots vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248303,
       "status": "UPCOMING",
-      "startTime": "01:00:00 AM 01-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248398_53017_CF_CAS_FC-Web.png",
+      "startTime": "04:30:00 AM 31-08-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248303_53026_SKN_ABF_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1459,6 +1274,117 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 03-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247480_52993_BUR_MIDD_fc-web_1786657253102.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Kuwait vs United Arab Emirates (ACC Men’s Premier Cup 2026)",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": 4248617,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 AM 03-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Malaysia vs Nepal (ACC Men’s Premier Cup 2026)",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": 4248618,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 AM 03-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Trinbago Knight Riders vs Antigua & Barbuda Falcons (Caribbean Premier League, 2026)",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248305,
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 03-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248305_53026_TKR_ABF_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
