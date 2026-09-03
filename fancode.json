@@ -2,12 +2,49 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "03/09/2026, 09:22:03 pm",
-  "_src_updated": "02:51:19 AM 04-09-2026",
+  "updatedAt": "03/09/2026, 11:21:49 pm",
+  "_src_updated": "04:44:06 AM 04-09-2026",
   "total_matches": 36,
-  "live_matches": 0,
-  "upcoming_matches": 36,
+  "live_matches": 1,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Caribbean Premier League, 2026 [English]",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248297_ENG",
+      "status": "LIVE",
+      "startTime": "04:30:00 AM 04-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Bathinda Royals vs Amritsar Soormas (Sher-E-Punjab T20, 2026)",
@@ -491,12 +528,49 @@
     },
     {
       "category": "Cricket",
-      "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2026)",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248297,
+      "title": "Kuwait vs Oman (ACC Men’s Premier Cup 2026)",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": 4248621,
       "status": "UPCOMING",
-      "startTime": "04:30:00 AM 04-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png",
+      "startTime": "07:00:00 AM 05-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248621_53050_KUW_OMA_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Malaysia vs Hong Kong, China (ACC Men’s Premier Cup 2026)",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": 4248622,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 AM 05-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248622_53050_MAS_HK_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -534,6 +608,43 @@
       "status": "UPCOMING",
       "startTime": "12:05:00 PM 04-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Las Palmas vs Leganes (LALIGA Hypermotion 2026-27)",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4248644,
+      "status": "UPCOMING",
+      "startTime": "12:00:00 AM 05-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248644_53017_LAP_LEG_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -712,43 +823,6 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Las Palmas vs Leganes (LALIGA Hypermotion 2026-27)",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4248644,
-      "status": "UPCOMING",
-      "startTime": "12:00:00 AM 05-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248644_53017_LAP_LEG_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Motorsports",
       "title": "Qualifying Session vs Monza (F2 MONZA 2026)",
       "tournament": "F2 MONZA 2026",
@@ -793,80 +867,6 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 04-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Kuwait vs Oman (ACC Men’s Premier Cup 2026)",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": 4248621,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 AM 05-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248621_53050_KUW_OMA_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Malaysia vs Hong Kong, China (ACC Men’s Premier Cup 2026)",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": 4248622,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 AM 05-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248622_53050_MAS_HK_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
