@@ -2,12 +2,49 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "04/09/2026, 09:46:14 pm",
-  "_src_updated": "03:13:04 AM 05-09-2026",
+  "updatedAt": "04/09/2026, 11:21:53 pm",
+  "_src_updated": "04:44:04 AM 05-09-2026",
   "total_matches": 37,
-  "live_matches": 0,
-  "upcoming_matches": 37,
+  "live_matches": 1,
+  "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Caribbean Premier League, 2026 [English]",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248309_ENG",
+      "status": "LIVE",
+      "startTime": "04:30:00 AM 05-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248309_53026_GUY_JK_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788647617~_GO=Generated~acl=/mumbai/4248309_english_hls_62fb7e66498149_1ta-di_h264/*~Signature=AfPHOv2QNTnzECShkZivcretdYY0kZZY7nAEpd0mxSpde7vw43HkXeN-mS11kB_x_kahGHaA-zuF4kZ4S51TUC3O9hAA"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Fazilka Falcons vs Bathinda Royals (Sher-E-Punjab T20, 2026)",
@@ -527,43 +564,6 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Chelsea F.C. Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": 4248464,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 05-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248464_53038_CHE-W_AST-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Barbados Tridents Women vs Trinbago Knight Riders Women (Women's Caribbean Premier League, 2026)",
       "tournament": "Women's Caribbean Premier League, 2026",
@@ -676,6 +676,43 @@
     },
     {
       "category": "Football",
+      "title": "Chelsea F.C. Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": 4248464,
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 05-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248464_53038_CHE-W_AST-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
       "title": "Sporting de Gijón vs Girona FC (LALIGA Hypermotion 2026-27)",
       "tournament": "LALIGA Hypermotion 2026-27",
       "match_id": 4248645,
@@ -713,12 +750,49 @@
     },
     {
       "category": "Cricket",
-      "title": "Guyana Amazon Warriors vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248309,
+      "title": "Nepal vs Saudi Arabia (ACC Men’s Premier Cup 2026)",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": 4248623,
       "status": "UPCOMING",
-      "startTime": "04:30:00 AM 05-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248309_53026_GUY_JK_FC-Web.png",
+      "startTime": "07:00:00 AM 06-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248623_53050_NEP_SDA_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "United Arab Emirates vs Singapore (ACC Men’s Premier Cup 2026)",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": 4248624,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 AM 06-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248624_53050_UAE_SIN_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -904,80 +978,6 @@
       "status": "UPCOMING",
       "startTime": "05:45:00 PM 05-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Nepal vs Saudi Arabia (ACC Men’s Premier Cup 2026)",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": 4248623,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 AM 06-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248623_53050_NEP_SDA_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "United Arab Emirates vs Singapore (ACC Men’s Premier Cup 2026)",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": 4248624,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 AM 06-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248624_53050_UAE_SIN_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1304,13 +1304,13 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Brighton and Hove Albion Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": 4248465,
+      "category": "Cricket",
+      "title": "TBC vs TBC (Uttar Pradesh T20 League, 2026)",
+      "tournament": "Uttar Pradesh T20 League, 2026",
+      "match_id": 4248361,
       "status": "UPCOMING",
-      "startTime": "04:30:00 PM 06-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248465_53038_BHA-W_ARS-W_fc-web.jpg",
+      "startTime": "08:00:00 PM 06-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1342,12 +1342,12 @@
     },
     {
       "category": "Football",
-      "title": "Tottenham Hotspur Women vs West Ham United Women (Barclays Women's Super League 2026-27)",
+      "title": "Brighton and Hove Albion Women vs Arsenal Women (Barclays Women's Super League 2026-27)",
       "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": 4248466,
+      "match_id": 4248465,
       "status": "UPCOMING",
       "startTime": "04:30:00 PM 06-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248466_53038_TOT-W_WHU-W_fc-web.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248465_53038_BHA-W_ARS-W_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
