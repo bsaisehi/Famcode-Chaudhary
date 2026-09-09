@@ -2,20 +2,57 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "09/09/2026, 06:09:01 am",
-  "_src_updated": "11:38:37 AM 09-09-2026",
+  "updatedAt": "09/09/2026, 11:10:14 pm",
+  "_src_updated": "04:29:03 AM 10-09-2026",
   "total_matches": 38,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Ludhiana Lions vs Fazilka Falcons (Sher-E-Punjab T20, 2026)",
+      "title": "Caribbean Premier League, 2026 [English]",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248304_ENG",
+      "status": "LIVE",
+      "startTime": "04:30:00 AM 10-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248304_53026_GUY_SLK_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+            "360p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+            "480p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+            "540p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+            "720p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL",
+            "1080p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248304_english_220621/ad-h264/index__1080p.m3u8?hdntl=Expires=1789079325~_GO=Generated~acl=/out/v1/ap-south-1/4248304_english_220621/ad-h264/*~Signature=AWDec-HNQvh8EObTAPno-e02reLrvVE_SOUf4OdGWvuYVHb6vHhvVIpei69_ilG__idSLlmbsbOxcBUrDlbAUsIh0tEL"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Amritsar Soormas vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
       "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": 4249119,
+      "match_id": 4249128,
       "status": "UPCOMING",
-      "startTime": "01:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249119_53065_LLN_FAF_fc-web_1788345784127.jpg",
+      "startTime": "01:00:00 PM 10-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -47,271 +84,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Mohali Kings vs Bathinda Royals (Sher-E-Punjab T20, 2026)",
+      "title": "Fazilka Falcons vs Bathinda Royals (Sher-E-Punjab T20, 2026)",
       "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": 4249122,
+      "match_id": 4249112,
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249122_53065_MOK_BHT_fc-web_1788345784011.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Uganda vs Sierra Leone (ILT20 Africa Continent Cup 2026)",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": 4249155,
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249155_53067_UGA_SRL_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Muscat Thunders vs Yalla Shabab Giants (Oman D50 2026)",
-      "tournament": "Oman D50 2026",
-      "match_id": 4248675,
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248675_53052_MUT_YSG_fc-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Kenya vs Rwanda (ILT20 Africa Continent Cup 2026)",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": 4249156,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249156_53067_KEN_RWA_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "TBC vs TBC (Dehradun T20 League 2026)",
-      "tournament": "Dehradun T20 League 2026",
-      "match_id": 4249080,
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dehradun-T20-League-2026-old-card-.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Al-Nassr FC vs Abha Club (Roshn Saudi League 2026-2027)",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": 4248663,
-      "status": "UPCOMING",
-      "startTime": "11:30:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248663_53025_ANF_ABC_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Charlton Athletic F.C vs Queens Park Rangers F.C. (EFL Championship 2026-27)",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247488,
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247488_52993_CHL_QPR_fc-web_1786657253161.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Chelsea vs Leeds United (Carabao Cup 2026-27)",
-      "tournament": "Carabao Cup 2026-27",
-      "match_id": 4249054,
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249054_53016_CHE_LU_fc-web.jpg",
+      "startTime": "07:00:00 PM 10-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -417,43 +195,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Amritsar Soormas vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": 4249128,
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Uganda vs Botswana (ILT20 Africa Continent Cup 2026)",
       "tournament": "ILT20 Africa Continent Cup 2026",
       "match_id": 4249157,
@@ -491,123 +232,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Namibia vs South Africa (South Africa tour of Namibia, 2026)",
-      "tournament": "South Africa tour of Namibia, 2026",
-      "match_id": 4248635,
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 09-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Guyana Amazon Warriors vs Saint Lucia Kings (Caribbean Premier League, 2026)",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248304,
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248304_53026_GUY_SLK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Mustafa Fragrance House Strikers vs IAS Invincibles (Oman D50 2026)",
       "tournament": "Oman D50 2026",
       "match_id": 4248676,
       "status": "UPCOMING",
       "startTime": "04:00:00 PM 10-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248676_53052_MF_IAI_fc-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Fazilka Falcons vs Bathinda Royals (Sher-E-Punjab T20, 2026)",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": 4249112,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 10-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249117_53065_FAF_BHT_fc-web_1788345784718.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -823,6 +453,43 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Muscat Thunders vs Royal Oman Stallions (Oman D50 2026)",
+      "tournament": "Oman D50 2026",
+      "match_id": 4248677,
+      "status": "UPCOMING",
+      "startTime": "04:00:00 PM 11-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248677_53052_MUT_ROS_fc-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Golf",
       "title": "Day 1 vs Bernardus Golf (The Solheim Cup 2026)",
       "tournament": "The Solheim Cup 2026",
@@ -861,49 +528,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Muscat Thunders vs Royal Oman Stallions (Oman D50 2026)",
-      "tournament": "Oman D50 2026",
-      "match_id": 4248677,
+      "title": "Amritsar Soormas vs Ludhiana Lions (Sher-E-Punjab T20, 2026)",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": 4249115,
       "status": "UPCOMING",
-      "startTime": "04:00:00 PM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248677_53052_MUT_ROS_fc-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "MotoGP",
-      "title": "Day 1 vs Misano World Circuit (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
-      "tournament": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
-      "match_id": 139966,
-      "status": "UPCOMING",
-      "startTime": "12:30:00 PM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
+      "startTime": "07:00:00 PM 11-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249115_53065_AMS_LLN_fc-web_1788345783974.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -971,13 +601,13 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Amritsar Soormas vs Ludhiana Lions (Sher-E-Punjab T20, 2026)",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": 4249115,
+      "category": "MotoGP",
+      "title": "Day 1 vs Misano World Circuit (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
+      "tournament": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
+      "match_id": 139966,
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249115_53065_AMS_LLN_fc-web_1788345783974.jpg",
+      "startTime": "12:30:00 PM 11-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1156,43 +786,6 @@
       }
     },
     {
-      "category": "Formula 1",
-      "title": "Practice 1 vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
-      "tournament": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
-      "match_id": 139487,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 11-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "Al Qadisiyah vs Al-Ettifaq (Roshn Saudi League 2026-2027)",
       "tournament": "Roshn Saudi League 2026-2027",
@@ -1230,6 +823,43 @@
       }
     },
     {
+      "category": "Formula 1",
+      "title": "Practice 1 vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
+      "tournament": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
+      "match_id": 139487,
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 11-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Motorsports",
       "title": "Qualifying Session vs Madrid, Spain (F2 MADRID 2026)",
       "tournament": "F2 MADRID 2026",
@@ -1237,6 +867,43 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 11-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Al-Ahli Saudi FC vs Al-Hazem FC (Roshn Saudi League 2026-2027)",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": 4249133,
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 11-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249133_53025_AAS_HAZ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1385,6 +1052,339 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 PM 11-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying vs Madrid, Spain (F3 MADRID 2026)",
+      "tournament": "F3 MADRID 2026",
+      "match_id": 139742,
+      "status": "UPCOMING",
+      "startTime": "09:55:00 PM 11-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC (ACC Men’s Premier Cup 2026)",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": 4248631,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 AM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC (ACC Men’s Premier Cup 2026)",
+      "tournament": "ACC Men’s Premier Cup 2026",
+      "match_id": 4248632,
+      "status": "UPCOMING",
+      "startTime": "07:00:00 AM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Guyana Amazon Warriors vs Trinbago Knight Riders (Caribbean Premier League, 2026)",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248310,
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248310_53026_GUY_TKR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC (Sher-E-Punjab T20, 2026)",
+      "tournament": "Sher-E-Punjab T20, 2026",
+      "match_id": 4249127,
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Uganda vs Kenya (ILT20 Africa Continent Cup 2026)",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": 4249161,
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2 vs Bernardus Golf (The Solheim Cup 2026)",
+      "tournament": "The Solheim Cup 2026",
+      "match_id": 4249082,
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Majees Titans vs Mustafa Fragrance House Strikers (Oman D50 2026)",
+      "tournament": "Oman D50 2026",
+      "match_id": 4248678,
+      "status": "UPCOMING",
+      "startTime": "04:00:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248678_53052_MAT_MF_fc-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "MotoGP",
+      "title": "Day 2 vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
+      "tournament": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
+      "match_id": 4248535,
+      "status": "UPCOMING",
+      "startTime": "12:10:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
