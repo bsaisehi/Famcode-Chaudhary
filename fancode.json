@@ -2,597 +2,42 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "12/09/2026, 06:25:39 am",
-  "_src_updated": "11:41:36 AM 12-09-2026",
-  "total_matches": 39,
-  "live_matches": 3,
-  "upcoming_matches": 36,
+  "updatedAt": "12/09/2026, 06:41:16 pm",
+  "_src_updated": "12:09:58 AM 13-09-2026",
+  "total_matches": 38,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
-      "title": "ACC Men’s Premier Cup 2026 [English]",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248631_ENG",
-      "status": "LIVE",
-      "startTime": "07:00:00 AM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789262338~_GO=Generated~acl=/mumbai/4248631_english_hls_50ca5fbc2d2310_1ta-di_h264/*~Signature=AWDec-EgUgzFMA0MujhTVx0-vJ9nmzfm-evoYdRmyBsSXFICfgHY4fIFdq5G4oUMAS23p9mInaejb9e5X6oON8pjlYYP"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "ACC Men’s Premier Cup 2026 [English]",
-      "tournament": "ACC Men’s Premier Cup 2026",
-      "match_id": "4248632_ENG",
-      "status": "LIVE",
-      "startTime": "07:00:00 AM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789261731~_GO=Generated~acl=/mumbai/4248632_english_hls_2069d9110118909_1ta-di_h264/*~Signature=AWDec-GftVfwa-cSKah_ANw36QbDZDFUW-TJAHKmLT9ZNZPqO4HCfPWFfmm_PrYNkUoloQvfQBBhmWqDFKzVyQAkJ3EJ"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "The Solheim Cup 2026 [English]",
-      "tournament": "The Solheim Cup 2026",
-      "match_id": "4249082_ENG",
-      "status": "LIVE",
-      "startTime": "11:00:00 AM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Mohali Kings vs Amritsar Soormas (Sher-E-Punjab T20, 2026)",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": 4249127,
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Ludhiana Lions vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
-      "tournament": "Sher-E-Punjab T20, 2026",
-      "match_id": 4249111,
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Uganda vs Kenya (ILT20 Africa Continent Cup 2026)",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": 4249161,
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249161_53067_UGA_KEN_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Majees Titans vs Mustafa Fragrance House Strikers (Oman D50 2026)",
-      "tournament": "Oman D50 2026",
-      "match_id": 4248678,
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248678_53052_MAT_MF_fc-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Botswana vs Sierra Leone (ILT20 Africa Continent Cup 2026)",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": 4249162,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249162_53067_BOT_SRL_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2026)",
+      "title": "Women's Caribbean Premier League, 2026 [English]",
       "tournament": "Women's Caribbean Premier League, 2026",
-      "match_id": 4249091,
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249091_53061_TKR-W_GUY-W_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Derby County Football Club vs Birmingham City F.C. (EFL Championship 2026-27)",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247490,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247490_52993_DER_BIR_fc-web_1786657253171.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Racing Club de Santander vs Deportivo Alaves (LALIGA 2026-27)",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247616,
-      "status": "UPCOMING",
-      "startTime": "05:30:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Watford F.C. vs Stoke City F.C. (EFL Championship 2026-27)",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247491,
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247491_52993_WAT_STK_fc-web_1786657253197.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "CA Osasuna vs RCD Espanyol (LALIGA 2026-27)",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247617,
-      "status": "UPCOMING",
-      "startTime": "07:45:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247617_53004_OSN_ESL_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Al-Taawoun FC vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": 4249134,
-      "status": "UPCOMING",
-      "startTime": "09:20:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249134_53025_ALTW_AHS_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Athletic Club vs Elche CF (LALIGA 2026-27)",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247612,
-      "status": "UPCOMING",
-      "startTime": "10:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Barbados Tridents Women vs Jamaica Empress Women (Women's Caribbean Premier League, 2026)",
-      "tournament": "Women's Caribbean Premier League, 2026",
-      "match_id": 4249092,
-      "status": "UPCOMING",
+      "match_id": "4249092_ENG",
+      "status": "LIVE",
       "startTime": "12:30:00 AM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249092_53061_BT-W_JE-W_FC-Web_1788430029026.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789324190~_GO=Generated~acl=/mumbai/4249092_english_hls_75dacf84df40283_1ta-di_h264/*~Signature=AWDec-F-fLmQdVWycvNkdTE4yftBalzjWZv5YyiFEjI09EAl7OkIzwHtkbNabdiLTnWywJmmHVld7UYO92fzmCVgPMIB"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -602,34 +47,34 @@
     },
     {
       "category": "Football",
-      "title": "Al Khaleej FC vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
+      "title": "Roshn Saudi League 2026-2027 [English]",
       "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": 4249135,
-      "status": "UPCOMING",
+      "match_id": "4249135_ENG",
+      "status": "LIVE",
       "startTime": "11:30:00 PM 12-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249135_53025_AKH_ANF_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789321771~_GO=Generated~acl=/mumbai/4249135_english_hls_c2563526ec31256_1ta-di_h264/*~Signature=AWDec-EN1m-FNr_RiBFlCVwhyvtbuknVyZwQepTPp-9h1RIw5A5WVv_pokFvdj8GGnKN2LSsDObI0ylXUj0c-tsiosoG"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -639,34 +84,34 @@
     },
     {
       "category": "Football",
-      "title": "Real Madrid vs Rayo Vallecano (LALIGA 2026-27)",
+      "title": "LALIGA 2026-27 [English]",
       "tournament": "LALIGA 2026-27",
-      "match_id": 4247611,
-      "status": "UPCOMING",
+      "match_id": "4247611_ENG",
+      "status": "LIVE",
       "startTime": "12:30:00 AM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247611_53004_RM_RVL_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789324191~_GO=Generated~acl=/mumbai/4247611_english_hls_c3a5a087ce27035_1ta-di_h264/*~Signature=AWDec-EyV7knRESTokMmnQIiWF-55DnkHplZEfvCSvMnMY5gJMsfExGZIyVhuY2sSUH_paWmcAgcq6hW32FioIwEUTIN"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -676,589 +121,34 @@
     },
     {
       "category": "Football",
-      "title": "West Ham United Women vs London City Lionesses (Barclays Women's Super League 2026-27)",
-      "tournament": "Barclays Women's Super League 2026-27",
-      "match_id": 4248470,
-      "status": "UPCOMING",
-      "startTime": "05:15:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg",
+      "title": "LALIGA 2026-27 [English]",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247612_ENG",
+      "status": "LIVE",
+      "startTime": "10:00:00 PM 12-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "MotoGP",
-      "title": "Day 2 vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
-      "tournament": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
-      "match_id": 4248535,
-      "status": "UPCOMING",
-      "startTime": "12:10:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Cádiz vs Las Palmas (LALIGA Hypermotion 2026-27)",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4249145,
-      "status": "UPCOMING",
-      "startTime": "07:45:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4249146,
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Sierra Leone vs Kenya (ILT20 Africa Continent Cup 2026)",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": 4249163,
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying 1 vs Sachsenring (DTM 2026)",
-      "tournament": "DTM 2026",
-      "match_id": 4248640,
-      "status": "UPCOMING",
-      "startTime": "01:20:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Coppa Shell Race 1 vs Europe (Ferrari Challenge Series 2026)",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": 4249176,
-      "status": "UPCOMING",
-      "startTime": "01:50:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Sprint Race vs Madrid, Spain (F3 MADRID 2026)",
-      "tournament": "F3 MADRID 2026",
-      "match_id": 139743,
-      "status": "UPCOMING",
-      "startTime": "02:35:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 3 vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
-      "tournament": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
-      "match_id": 139489,
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Race 1 vs Germany (DTM 2026)",
-      "tournament": "DTM 2026",
-      "match_id": 4249174,
-      "status": "UPCOMING",
-      "startTime": "04:45:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Sprint Race vs Madrid, Spain (F2 MADRID 2026)",
-      "tournament": "F2 MADRID 2026",
-      "match_id": 139652,
-      "status": "UPCOMING",
-      "startTime": "05:45:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Race 1 vs Sachsenring (DTM 2026)",
-      "tournament": "DTM 2026",
-      "match_id": 4248642,
-      "status": "UPCOMING",
-      "startTime": "06:35:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Trofeo Pirelli Race 1 vs Europe (Ferrari Challenge Series 2026)",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": 4249177,
-      "status": "UPCOMING",
-      "startTime": "07:10:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Qualifying vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
-      "tournament": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
-      "match_id": 139490,
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Feature Race 1 vs Madrid, Spain (F3 MADRID 2026)",
-      "tournament": "F3 MADRID 2026",
-      "match_id": 139744,
-      "status": "UPCOMING",
-      "startTime": "09:30:00 PM 12-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248312,
-      "status": "UPCOMING",
-      "startTime": "05:30:00 AM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -1304,13 +194,50 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Sheffield United F.C. vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
-      "tournament": "EFL Championship 2026-27",
-      "match_id": 4247492,
+      "category": "Cricket",
+      "title": "India vs Afghanistan (India Tour of Afghanistan, 2026)",
+      "tournament": "India Tour of Afghanistan, 2026",
+      "match_id": 4248491,
       "status": "UPCOMING",
-      "startTime": "04:30:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247492_52993_SHF_WOL_fc-web_1786657253831.jpg",
+      "startTime": "07:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB_1788619389374.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Córdoba vs Almería (LALIGA Hypermotion 2026-27)",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4249146,
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249146_53017_CDB_ALM_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1342,12 +269,12 @@
     },
     {
       "category": "Cricket",
-      "title": "India vs Afghanistan (India Tour of Afghanistan, 2026)",
-      "tournament": "India Tour of Afghanistan, 2026",
-      "match_id": 4248491,
+      "title": "Sierra Leone vs Kenya (ILT20 Africa Continent Cup 2026)",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": 4249163,
       "status": "UPCOMING",
-      "startTime": "07:30:00 PM 13-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB_1788619389374.jpg",
+      "startTime": "01:00:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1416,12 +343,1048 @@
     },
     {
       "category": "Football",
+      "title": "Sheffield United F.C. vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
+      "tournament": "EFL Championship 2026-27",
+      "match_id": 4247492,
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247492_52993_SHF_WOL_fc-web_1786657253831.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
       "title": "RC Celta vs Malaga (LALIGA 2026-27)",
       "tournament": "LALIGA 2026-27",
       "match_id": 4247609,
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 13-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247609_53004_CEV_MAG_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Levante vs FC Barcelona (LALIGA 2026-27)",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247610,
+      "status": "UPCOMING",
+      "startTime": "07:45:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247610_53004_LET_BAR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Manchester United Women vs Chelsea F.C. Women (Barclays Women's Super League 2026-27)",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": 4248471,
+      "status": "UPCOMING",
+      "startTime": "04:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248471_53038_MUN-W_CHE-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Getafe CF vs Deportivo de La Coruna (LALIGA 2026-27)",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247613,
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247613_53004_GEF_COR_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Birmingham City F.C. Women vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": 4248472,
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248472_53038_BIR-W_BHA-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Everton Women vs Charlton Athletic F.C Women (Barclays Women's Super League 2026-27)",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": 4248473,
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248473_53038_EVE-W_CHL-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Liverpool Women vs Tottenham Hotspur Women (Barclays Women's Super League 2026-27)",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": 4248474,
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248474_53038_LIV-W_TOT-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Arsenal Women vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": 4248475,
+      "status": "UPCOMING",
+      "startTime": "07:15:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248475_53038_ARS-W_CP-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Guyana Amazon Warriors Women vs Barbados Tridents Women (Women's Caribbean Premier League, 2026)",
+      "tournament": "Women's Caribbean Premier League, 2026",
+      "match_id": 4249093,
+      "status": "UPCOMING",
+      "startTime": "11:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Real Valladolid vs Real Oviedo (LALIGA Hypermotion 2026-27)",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4249147,
+      "status": "UPCOMING",
+      "startTime": "07:45:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249147_53017_VLD_RO_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Real Sociedad vs Atletico de Madrid (LALIGA 2026-27)",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247614,
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 14-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247614_53004_RS_ATM_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Aston Villa Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": 4248476,
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248476_53038_AST-W_MCI-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248312,
+      "status": "UPCOMING",
+      "startTime": "05:30:00 AM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Tenerife vs Leganes (LALIGA Hypermotion 2026-27)",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4249148,
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 14-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249148_53017_TFE_LEG_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Qualifying 2 vs Sachsenring (DTM 2026)",
+      "tournament": "DTM 2026",
+      "match_id": 4248641,
+      "status": "UPCOMING",
+      "startTime": "12:25:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia vs South Africa (South Africa tour of Namibia, 2026)",
+      "tournament": "South Africa tour of Namibia, 2026",
+      "match_id": 4248634,
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Coppa Shell Race 2 vs Europe (Ferrari Challenge Series 2026)",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": 4249178,
+      "status": "UPCOMING",
+      "startTime": "01:50:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "MotoGP",
+      "title": "Race Day vs Misano World Circuit (RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA)",
+      "tournament": "RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA",
+      "match_id": 139968,
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3 vs Bernardus Golf (The Solheim Cup 2026)",
+      "tournament": "The Solheim Cup 2026",
+      "match_id": 4249083,
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Feature Race vs Madrid, Spain (F2 MADRID 2026)",
+      "tournament": "F2 MADRID 2026",
+      "match_id": 139653,
+      "status": "UPCOMING",
+      "startTime": "02:55:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Race 2 vs Germany (DTM 2026)",
+      "tournament": "DTM 2026",
+      "match_id": 4249175,
+      "status": "UPCOMING",
+      "startTime": "04:45:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Trofoe Pirelli Race 2 vs Europe (Ferrari Challenge Series 2026)",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": 4249179,
+      "status": "UPCOMING",
+      "startTime": "06:15:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race vs Circuito de Madring (F1 TAG HEUER GRAN PREMIO DE ESPANA 2026)",
+      "tournament": "F1 TAG HEUER GRAN PREMIO DE ESPANA 2026",
+      "match_id": 139491,
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "F1 Kids 2026 vs Spain (F1 Kids 2026)",
+      "tournament": "F1 Kids 2026",
+      "match_id": 4249185,
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Race 2 vs Sachsenring (DTM 2026)",
+      "tournament": "DTM 2026",
+      "match_id": 4248643,
+      "status": "UPCOMING",
+      "startTime": "06:35:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Feature Race 2 vs Madrid (F3 MADRID 2026)",
+      "tournament": "F3 MADRID 2026",
+      "match_id": 4249184,
+      "status": "UPCOMING",
+      "startTime": "01:15:00 PM 13-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Barbados Tridents vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": 4248313,
+      "status": "UPCOMING",
+      "startTime": "04:30:00 AM 14-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248313_53026_BT_GUY_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC (Oman D50 2026)",
+      "tournament": "Oman D50 2026",
+      "match_id": 4248679,
+      "status": "UPCOMING",
+      "startTime": "04:00:00 PM 14-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
