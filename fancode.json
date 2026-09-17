@@ -2,12 +2,49 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "16/09/2026, 10:21:03 pm",
-  "_src_updated": "03:49:22 AM 17-09-2026",
+  "updatedAt": "17/09/2026, 12:41:28 am",
+  "_src_updated": "06:00:32 AM 17-09-2026",
   "total_matches": 39,
-  "live_matches": 0,
-  "upcoming_matches": 39,
+  "live_matches": 1,
+  "upcoming_matches": 38,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Caribbean Premier League, 2026 [English]",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248314_ENG",
+      "status": "LIVE",
+      "startTime": "04:30:00 AM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789684168~_GO=Generated~acl=/mumbai/4248314_english_hls_9e7320d47f91004_1ta-di_h264/*~Signature=AVl424NEQ4358kqaporbF4cr7k2Y501bqY6XnFaTUQgs9p1srPACt1HiU6QA-VtcHWFBPBvRQtr6Q20gFUZEHAZ5pggH"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Malaysia vs United Arab Emirates (United Arab Emirates tour of Malaysia, 2026)",
@@ -564,43 +601,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Barbados Tridents vs Jamaica Kingsmen (Caribbean Premier League, 2026)",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": 4248314,
-      "status": "UPCOMING",
-      "startTime": "04:30:00 AM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "Malaga vs Villarreal CF (LALIGA 2026-27)",
       "tournament": "LALIGA 2026-27",
@@ -712,43 +712,6 @@
       }
     },
     {
-      "category": "Golf",
-      "title": "Day 1 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
-      "tournament": "Biltmore Championship in Asheville 2026",
-      "match_id": 4249100,
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Western Australia vs South Australia (One Day Cup, 2026/27)",
       "tournament": "One Day Cup, 2026/27",
@@ -793,6 +756,43 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 18-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 1 - World Feed vs Asheville, North Carolina (Biltmore Championship in Asheville 2026)",
+      "tournament": "Biltmore Championship in Asheville 2026",
+      "match_id": 4249100,
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
