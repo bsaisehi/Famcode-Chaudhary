@@ -2,49 +2,12 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/09/2026, 01:58:13 pm",
-  "_src_updated": "07:23:39 PM 21-09-2026",
+  "updatedAt": "21/09/2026, 07:01:56 pm",
+  "_src_updated": "12:26:36 AM 22-09-2026",
   "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Odisha Pro T20 League 2026 [English]",
-      "tournament": "Odisha Pro T20 League 2026",
-      "match_id": "4249573_ENG",
-      "status": "LIVE",
-      "startTime": "07:30:00 PM 21-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249573_53080_ROR_SAW_fc-web_1789983232781.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-            "360p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-            "480p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-            "540p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-            "720p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA",
-            "1080p": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Japan vs India (India tour of Japan, 2026)",
@@ -158,43 +121,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Dubai Capitals Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
-      "tournament": "DP World ILT20 Development Tournament 2026",
-      "match_id": 4249253,
-      "status": "UPCOMING",
-      "startTime": "08:30:00 PM 21-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha Pro T20 League 2026)",
       "tournament": "Odisha Pro T20 League 2026",
       "match_id": 4249575,
@@ -268,13 +194,13 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Mohammedan SC vs East Bengal FC (IFA Shield 2026)",
-      "tournament": "IFA Shield 2026",
-      "match_id": 4249522,
+      "category": "Cricket",
+      "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": 4249255,
       "status": "UPCOMING",
-      "startTime": "03:00:00 PM 22-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+      "startTime": "10:30:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -349,43 +275,6 @@
       "status": "UPCOMING",
       "startTime": "10:15:00 PM 22-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249469_53078_INT-W_BKH-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
-      "tournament": "DP World ILT20 Development Tournament 2026",
-      "match_id": 4249255,
-      "status": "UPCOMING",
-      "startTime": "10:30:00 PM 22-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -676,7 +565,7 @@
     },
     {
       "category": "Football",
-      "title": "Mohun Bagan Super Giant vs Sreenidi Deccan FC (IFA Shield 2026)",
+      "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
       "tournament": "IFA Shield 2026",
       "match_id": 4249525,
       "status": "UPCOMING",
@@ -1119,6 +1008,43 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Calcutta Customs Club vs East Bengal FC (IFA Shield 2026)",
+      "tournament": "IFA Shield 2026",
+      "match_id": 4249522,
+      "status": "UPCOMING",
+      "startTime": "03:00:00 PM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha Pro T20 League 2026)",
       "tournament": "Odisha Pro T20 League 2026",
@@ -1385,6 +1311,80 @@
       "status": "UPCOMING",
       "startTime": "02:30:00 PM 25-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1789983232752.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+      "tournament": "ATP 250 - Chengdu Open 2026",
+      "match_id": 4248539,
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+      "tournament": "ATP 250 - Hangzhou Open 2026",
+      "match_id": 4248546,
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
