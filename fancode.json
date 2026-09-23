@@ -2,86 +2,12 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/09/2026, 09:37:34 pm",
-  "_src_updated": "02:58:47 AM 24-09-2026",
+  "updatedAt": "23/09/2026, 11:55:31 pm",
+  "_src_updated": "05:20:14 AM 24-09-2026",
   "total_matches": 37,
-  "live_matches": 2,
-  "upcoming_matches": 35,
+  "live_matches": 0,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "DP World ILT20 Development Tournament 2026 [English]",
-      "tournament": "DP World ILT20 Development Tournament 2026",
-      "match_id": "4249257_ENG",
-      "status": "LIVE",
-      "startTime": "10:30:00 PM 23-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/web-2.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
-      "title": "UEFA Women's Champions League 2026-27 [English]",
-      "tournament": "UEFA Women's Champions League 2026-27",
-      "match_id": "4249475_ENG",
-      "status": "LIVE",
-      "startTime": "12:30:00 AM 24-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249475_53078_CHE-W_AW-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-        "backup": {
-          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF"
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
@@ -238,6 +164,43 @@
       "status": "UPCOMING",
       "startTime": "03:00:00 PM 24-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Victoria vs New South Wales (One Day Cup, 2026/27)",
+      "tournament": "One Day Cup, 2026/27",
+      "match_id": 4249278,
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249278_53072_VCT_NSW_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -460,43 +423,6 @@
       "status": "UPCOMING",
       "startTime": "05:30:00 PM 24-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Victoria vs New South Wales (One Day Cup, 2026/27)",
-      "tournament": "One Day Cup, 2026/27",
-      "match_id": 4249278,
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249278_53072_VCT_NSW_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1348,6 +1274,80 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 26-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
+      "tournament": "League Two 2026-27",
+      "match_id": 4248164,
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Tenerife vs Cádiz (LALIGA Hypermotion 2026-27)",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4249270,
+      "status": "UPCOMING",
+      "startTime": "10:00:00 PM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249270_53017_TFE_CDZ_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
