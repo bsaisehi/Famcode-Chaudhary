@@ -2,42 +2,116 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/09/2026, 01:43:28 am",
-  "_src_updated": "07:06:08 AM 25-09-2026",
-  "total_matches": 37,
-  "live_matches": 0,
-  "upcoming_matches": 37,
+  "updatedAt": "25/09/2026, 06:38:57 am",
+  "_src_updated": "11:59:03 AM 25-09-2026",
+  "total_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Victoria vs New South Wales (One Day Cup, 2026/27)",
+      "title": "One Day Cup, 2026/27 [English]",
       "tournament": "One Day Cup, 2026/27",
-      "match_id": 4249278,
-      "status": "UPCOMING",
+      "match_id": "4249278_ENG",
+      "status": "LIVE",
       "startTime": "09:30:00 AM 25-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249278_53072_VCT_NSW_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
         "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E"
         }
       },
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790394438~_GO=Generated~acl=/mumbai/4249278_english_hls_99842b20a865785_1ta-di_h264/*~Signature=AUh_zpU_NkFNBS3edDIiw9bgDmxpDTPOWiCw9y1nLn8mMvXC9yX_iyFq0js1NX_1Y6SwuLTXe0C6Vsa1kIIVsfgLHn0E"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Chengdu Open 2026 [English]",
+      "tournament": "ATP 250 - Chengdu Open 2026",
+      "match_id": "4248539_ENG",
+      "status": "LIVE",
+      "startTime": "10:30:00 AM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI"
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Hangzhou Open 2026 [English]",
+      "tournament": "ATP 250 - Hangzhou Open 2026",
+      "match_id": "4248546_ENG",
+      "status": "LIVE",
+      "startTime": "11:00:00 AM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+        "fancode_bd_cdn": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+        "fancode_np_cdn": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+        "fancode_lk_cdn": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+        "backup": {
+          "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+          "fancode_cdn_v1": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+          "fancode_dai_cdn": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC"
           },
           "cookie": "",
           "expires": "1783167966",
@@ -120,228 +194,6 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Girona FC vs Albacete (LALIGA Hypermotion 2026-27)",
-      "tournament": "LALIGA Hypermotion 2026-27",
-      "match_id": 4249269,
-      "status": "UPCOMING",
-      "startTime": "12:00:00 AM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249269_53017_GIR_ALB_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Sprint Race vs Baku (F2 AZERBAIJAN 2026)",
-      "tournament": "F2 AZERBAIJAN 2026",
-      "match_id": 139656,
-      "status": "UPCOMING",
-      "startTime": "09:45:00 AM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 3 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-      "tournament": "ATP 250 - Chengdu Open 2026",
-      "match_id": 4248539,
-      "status": "UPCOMING",
-      "startTime": "10:30:00 AM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 3 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-      "tournament": "ATP 250 - Hangzhou Open 2026",
-      "match_id": 4248546,
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 3 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
-      "tournament": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-      "match_id": 139494,
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Feature Race 1 vs Baku (F2 AZERBAIJAN 2026)",
-      "tournament": "F2 AZERBAIJAN 2026",
-      "match_id": 139657,
-      "status": "UPCOMING",
-      "startTime": "03:45:00 PM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Delhi Dynamos vs Gurugram Gladiators (NCR T20 League, 2026)",
       "tournament": "NCR T20 League, 2026",
@@ -379,50 +231,13 @@
       }
     },
     {
-      "category": "Formula 1",
-      "title": "Qualifying vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
-      "tournament": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-      "match_id": 139495,
+      "category": "Football",
+      "title": "Girona FC vs Albacete (LALIGA Hypermotion 2026-27)",
+      "tournament": "LALIGA Hypermotion 2026-27",
+      "match_id": 4249269,
       "status": "UPCOMING",
-      "startTime": "05:30:00 PM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 2 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-      "tournament": "Presidents Cup 2026",
-      "match_id": 4249105,
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+      "startTime": "12:00:00 AM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249269_53017_GIR_ALB_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -527,13 +342,13 @@
       }
     },
     {
-      "category": "Tennis",
-      "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-      "tournament": "ATP 250 - Chengdu Open 2026",
-      "match_id": 4248540,
+      "category": "Formula 1",
+      "title": "Practice 3 vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
+      "tournament": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
+      "match_id": 139494,
       "status": "UPCOMING",
-      "startTime": "09:00:00 AM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "startTime": "02:00:00 PM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -564,13 +379,87 @@
       }
     },
     {
-      "category": "Tennis",
-      "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-      "tournament": "ATP 250 - Hangzhou Open 2026",
-      "match_id": 4248547,
+      "category": "Motorsports",
+      "title": "Feature Race 1 vs Baku (F2 AZERBAIJAN 2026)",
+      "tournament": "F2 AZERBAIJAN 2026",
+      "match_id": 139657,
       "status": "UPCOMING",
-      "startTime": "09:00:00 AM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+      "startTime": "03:45:00 PM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Formula 1",
+      "title": "Qualifying vs Baku City Circuit (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026)",
+      "tournament": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
+      "match_id": 139495,
+      "status": "UPCOMING",
+      "startTime": "05:30:00 PM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+      "tournament": "Presidents Cup 2026",
+      "match_id": 4249105,
+      "status": "UPCOMING",
+      "startTime": "11:00:00 PM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -645,6 +534,80 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 26-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1790170352097.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+      "tournament": "ATP 250 - Chengdu Open 2026",
+      "match_id": 4248540,
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+      "tournament": "ATP 250 - Hangzhou Open 2026",
+      "match_id": 4248547,
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -823,43 +786,6 @@
       }
     },
     {
-      "category": "Golf",
-      "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-      "tournament": "Presidents Cup 2026",
-      "match_id": 4249106,
-      "status": "UPCOMING",
-      "startTime": "06:30:00 PM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
       "tournament": "League Two 2026-27",
@@ -904,6 +830,43 @@
       "status": "UPCOMING",
       "startTime": "10:00:00 PM 26-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249270_53017_TFE_CDZ_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+      "tournament": "Presidents Cup 2026",
+      "match_id": 4249106,
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 26-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
