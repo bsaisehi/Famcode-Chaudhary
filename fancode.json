@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/09/2026, 11:10:20 pm",
-  "_src_updated": "04:36:25 AM 28-09-2026",
+  "updatedAt": "28/09/2026, 01:40:16 am",
+  "_src_updated": "07:07:57 AM 28-09-2026",
   "total_matches": 40,
   "live_matches": 0,
   "upcoming_matches": 40,
@@ -269,6 +269,43 @@
     },
     {
       "category": "Cricket",
+      "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
+      "tournament": "Women's National Cricket League, 2026/27",
+      "match_id": 4249528,
+      "status": "UPCOMING",
+      "startTime": "05:00:00 AM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249528_53075_NSW-W_QUN-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Ajman vs Fujairah (Emirates D10, 2026)",
       "tournament": "Emirates D10, 2026",
       "match_id": 4250057,
@@ -379,43 +416,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
-      "tournament": "Women's National Cricket League, 2026/27",
-      "match_id": 4249528,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 AM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249528_53075_NSW-W_QUN-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
       "tournament": "LALIGA Hypermotion 2026-27",
@@ -460,6 +460,80 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 AM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
+      "tournament": "Women's National Cricket League, 2026/27",
+      "match_id": 4249530,
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Manoharpur Lions vs Saranda Worriers (West Singhbhum T20 League 2026)",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": 4250039,
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -565,80 +639,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
-      "tournament": "Women's National Cricket League, 2026/27",
-      "match_id": 4249530,
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Manoharpur Lions vs Saranda Worriers (West Singhbhum T20 League 2026)",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": 4250039,
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Aravali Avengers vs Ghaziabad Giants (NCR T20 League, 2026)",
       "tournament": "NCR T20 League, 2026",
       "match_id": 4249298,
@@ -682,6 +682,43 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
+      "tournament": "NCR T20 League, 2026",
+      "match_id": 4249297,
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 29-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -756,43 +793,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 29-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
-      "tournament": "NCR T20 League, 2026",
-      "match_id": 4249297,
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 29-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
