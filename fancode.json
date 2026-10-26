@@ -2,8 +2,8 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/10/2026, 11:39:28 pm",
-  "_src_updated": "05:04:47 AM 26-10-2026",
+  "updatedAt": "26/10/2026, 01:40:13 am",
+  "_src_updated": "07:05:53 AM 26-10-2026",
   "total_matches": 40,
   "live_matches": 0,
   "upcoming_matches": 40,
@@ -342,6 +342,43 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Sevilla FC vs CA Osasuna (LALIGA 2026-27)",
+      "tournament": "LALIGA 2026-27",
+      "match_id": 4247667,
+      "status": "UPCOMING",
+      "startTime": "01:30:00 AM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247667_53004_SEV_OSN_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Delhi Dynamites vs Haryana Hustlers (Northern Artist Champions League 2026)",
       "tournament": "Northern Artist Champions League 2026",
@@ -454,43 +491,6 @@
     },
     {
       "category": "Football",
-      "title": "Sevilla FC vs CA Osasuna (LALIGA 2026-27)",
-      "tournament": "LALIGA 2026-27",
-      "match_id": 4247667,
-      "status": "UPCOMING",
-      "startTime": "01:30:00 AM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247667_53004_SEV_OSN_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Football",
       "title": "Walsall vs Salford City (League Two 2026-27)",
       "tournament": "League Two 2026-27",
       "match_id": 4250000,
@@ -564,6 +564,117 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "Qatar vs Papua New Guinea (ICC CWC Challenge League A 2026)",
+      "tournament": "ICC CWC Challenge League A 2026",
+      "match_id": 4250343,
+      "status": "UPCOMING",
+      "startTime": "12:15:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Kuwait vs Jersey (ICC CWC Challenge League A 2026)",
+      "tournament": "ICC CWC Challenge League A 2026",
+      "match_id": 4250344,
+      "status": "UPCOMING",
+      "startTime": "12:15:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Biratnagar Kings vs Chitwan Rhinos (Nepal Premier League Season 3, 2026)",
+      "tournament": "Nepal Premier League Season 3, 2026",
+      "match_id": 4250356,
+      "status": "UPCOMING",
+      "startTime": "12:15:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250356_53124_BK_CWR_fc-Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Tennis",
       "title": "IWB Court 1 vs Basel, Switzerland (ATP 500 - Swiss Indoors Basel 2026)",
       "tournament": "ATP 500 - Swiss Indoors Basel 2026",
@@ -571,6 +682,43 @@
       "status": "UPCOMING",
       "startTime": "04:30:00 PM 26-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia vs Ireland (Ireland tour of Namibia, 2026)",
+      "tournament": "Ireland tour of Namibia, 2026",
+      "match_id": 4250333,
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -713,123 +861,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Qatar vs Papua New Guinea (ICC CWC Challenge League A 2026)",
-      "tournament": "ICC CWC Challenge League A 2026",
-      "match_id": 4250343,
+      "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+      "tournament": "Australia tour of South Africa, 2026",
+      "match_id": 4249783,
       "status": "UPCOMING",
-      "startTime": "12:15:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Kuwait vs Jersey (ICC CWC Challenge League A 2026)",
-      "tournament": "ICC CWC Challenge League A 2026",
-      "match_id": 4250344,
-      "status": "UPCOMING",
-      "startTime": "12:15:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Biratnagar Kings vs Chitwan Rhinos (Nepal Premier League Season 3, 2026)",
-      "tournament": "Nepal Premier League Season 3, 2026",
-      "match_id": 4250356,
-      "status": "UPCOMING",
-      "startTime": "12:15:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250356_53124_BK_CWR_fc-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia vs Ireland (Ireland tour of Namibia, 2026)",
-      "tournament": "Ireland tour of Namibia, 2026",
-      "match_id": 4250333,
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
+      "startTime": "02:00:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -867,43 +904,6 @@
       "status": "UPCOMING",
       "startTime": "09:30:00 AM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-      "tournament": "Australia tour of South Africa, 2026",
-      "match_id": 4249783,
-      "status": "UPCOMING",
-      "startTime": "02:00:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -978,43 +978,6 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Centre Court vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": 4250545,
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1193,6 +1156,80 @@
       }
     },
     {
+      "category": "Tennis",
+      "title": "Centre Court vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
+      "tournament": "ATP 500 - Erste Bank Open 2026",
+      "match_id": 4250545,
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Afghanistan vs Zimbabwe (Zimbabwe Tour of Afghanistan in UAE, 2026)",
+      "tournament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
+      "match_id": 4249769,
+      "status": "UPCOMING",
+      "startTime": "08:00:00 PM 27-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-VS-AFG_fc-web_1792819628639.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
       "category": "Football",
       "title": "Beijing Guoan vs Jeonbuk Motors (AFC Champions League Elite 2026-27)",
       "tournament": "AFC Champions League Elite 2026-27",
@@ -1237,43 +1274,6 @@
       "status": "UPCOMING",
       "startTime": "05:45:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248725_53053_RAT_REY_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Afghanistan vs Zimbabwe (Zimbabwe Tour of Afghanistan in UAE, 2026)",
-      "tournament": "Zimbabwe Tour of Afghanistan in UAE, 2026",
-      "match_id": 4249769,
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 27-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-VS-AFG_fc-web_1792819628639.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
