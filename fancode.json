@@ -2,20 +2,20 @@
   "Author": "Shiv Chaudhary",
   "Telegram": "https://t.me/VoidXDevs",
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/11/2026, 11:46:30 pm",
-  "_src_updated": "05:08:11 AM 19-11-2026",
-  "total_matches": 40,
+  "updatedAt": "19/11/2026, 04:32:58 am",
+  "_src_updated": "09:52:46 AM 19-11-2026",
+  "total_matches": 39,
   "live_matches": 0,
-  "upcoming_matches": 40,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Bangladesh vs South Africa (Bangladesh tour of South Africa, 2026)",
-      "tournament": "Bangladesh tour of South Africa, 2026",
-      "match_id": 4250650,
-      "status": "PAUSED",
-      "startTime": "01:30:00 PM 15-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SA_Test_fc-web_1794644019035.jpg",
+      "title": "Perth Scorchers Women vs Hobart Hurricanes Women (Women's Big Bash League, 2026)",
+      "tournament": "Women's Big Bash League, 2026",
+      "match_id": 4250412,
+      "status": "UPCOMING",
+      "startTime": "10:10:00 AM 19-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250412_53125_HB-W_PS-W_fc-web_1793352701293.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -47,12 +47,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Hobart Hurricanes Women vs Perth Scorchers Women (Women's Big Bash League, 2026)",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": 4250412,
-      "status": "UPCOMING",
-      "startTime": "10:10:00 AM 19-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250412_53125_HB-W_PS-W_fc-web_1793352701293.jpg",
+      "title": "Bangladesh vs South Africa (Bangladesh tour of South Africa, 2026)",
+      "tournament": "Bangladesh tour of South Africa, 2026",
+      "match_id": 4250650,
+      "status": "PAUSED",
+      "startTime": "01:30:00 PM 15-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SA_Test_fc-web_1794644019035.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -527,13 +527,87 @@
       }
     },
     {
-      "category": "Badminton",
-      "title": "Round of 16 vs Hong Kong (BWF Super 500 - LI-NING Hong Kong Open 2026)",
-      "tournament": "BWF Super 500 - LI-NING Hong Kong Open 2026",
-      "match_id": 4250634,
+      "category": "Cricket",
+      "title": "Adelaide Strikers Women vs Melbourne Renegades Women (Women's Big Bash League, 2026)",
+      "tournament": "Women's Big Bash League, 2026",
+      "match_id": 4250414,
       "status": "UPCOMING",
-      "startTime": "06:30:00 AM 19-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Open_BWF-Super-500_fc-web.jpg",
+      "startTime": "01:40:00 PM 20-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250414_53125_AS-W_MR-W_fc-web_1793352702100.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Muscat Thunders Women vs Sohar Smashers Women (Oman Women's D20, 2026)",
+      "tournament": "Oman Women's D20, 2026",
+      "match_id": 4250900,
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 20-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC (ICC Women's Emerging Nations Trophy, 2026)",
+      "tournament": "ICC Women's Emerging Nations Trophy, 2026",
+      "match_id": 4250681,
+      "status": "UPCOMING",
+      "startTime": "02:45:00 PM 20-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC_Womens_Emerging_2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -749,13 +823,13 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Adelaide Strikers Women vs Melbourne Renegades Women (Women's Big Bash League, 2026)",
-      "tournament": "Women's Big Bash League, 2026",
-      "match_id": 4250414,
+      "category": "Formula 1",
+      "title": "Practice 1 vs Las Vegas Strip Circuit (F1 HEINEKEN LAS VEGAS GRAND PRIX 2026)",
+      "tournament": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2026",
+      "match_id": 139517,
       "status": "UPCOMING",
-      "startTime": "01:40:00 PM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250414_53125_AS-W_MR-W_fc-web_1793352702100.jpg",
+      "startTime": "06:00:00 AM 20-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-LAS-VEGAS-GRAND-PRIX--web-card_1793794360904.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -787,11 +861,11 @@
     },
     {
       "category": "Cricket",
-      "title": "Muscat Thunders Women vs Sohar Smashers Women (Oman Women's D20, 2026)",
+      "title": "Muscat Shaheens  Women vs Ghubra Giants Women (Oman Women's D20, 2026)",
       "tournament": "Oman Women's D20, 2026",
-      "match_id": 4250900,
+      "match_id": 4250901,
       "status": "UPCOMING",
-      "startTime": "11:30:00 AM 20-11-2026",
+      "startTime": "04:00:00 PM 20-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
       "language": "ENGLISH",
       "streams": {
@@ -823,13 +897,13 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "TBC vs TBC (ICC Women's Emerging Nations Trophy, 2026)",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2026",
-      "match_id": 4250681,
+      "category": "Badminton",
+      "title": "Quarter-Final 1 vs Hong Kong (BWF Super 500 - LI-NING Hong Kong Open 2026)",
+      "tournament": "BWF Super 500 - LI-NING Hong Kong Open 2026",
+      "match_id": 4250635,
       "status": "UPCOMING",
-      "startTime": "02:45:00 PM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC_Womens_Emerging_2026_FC-WEB.jpg",
+      "startTime": "08:30:00 AM 20-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Open_BWF-Super-500_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -861,12 +935,12 @@
     },
     {
       "category": "Formula 1",
-      "title": "Practice 1 vs Las Vegas Strip Circuit (F1 HEINEKEN LAS VEGAS GRAND PRIX 2026)",
+      "title": "Practice 2 vs Las Vegas Strip Circuit (F1 HEINEKEN LAS VEGAS GRAND PRIX 2026)",
       "tournament": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2026",
-      "match_id": 139517,
+      "match_id": 139518,
       "status": "UPCOMING",
-      "startTime": "06:00:00 AM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-LAS-VEGAS-GRAND-PRIX--web-card_1793794360904.png",
+      "startTime": "09:30:00 AM 20-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-LAS-VEGAS-GRAND-PRIX--web-card_1793794537926.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1008,154 +1082,6 @@
       }
     },
     {
-      "category": "Badminton",
-      "title": "Quarter-Final 1 vs Hong Kong (BWF Super 500 - LI-NING Hong Kong Open 2026)",
-      "tournament": "BWF Super 500 - LI-NING Hong Kong Open 2026",
-      "match_id": 4250635,
-      "status": "UPCOMING",
-      "startTime": "08:30:00 AM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Open_BWF-Super-500_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 2 vs Las Vegas Strip Circuit (F1 HEINEKEN LAS VEGAS GRAND PRIX 2026)",
-      "tournament": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2026",
-      "match_id": 139518,
-      "status": "UPCOMING",
-      "startTime": "09:30:00 AM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-LAS-VEGAS-GRAND-PRIX--web-card_1793794537926.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Muscat Shaheens  Women vs Ghubra Giants Women (Oman Women's D20, 2026)",
-      "tournament": "Oman Women's D20, 2026",
-      "match_id": 4250901,
-      "status": "UPCOMING",
-      "startTime": "04:00:00 PM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Practice Session vs Las Vegas (F1 ACADEMY LAS VEGAS 2026)",
-      "tournament": "F1 ACADEMY LAS VEGAS 2026",
-      "match_id": 139700,
-      "status": "UPCOMING",
-      "startTime": "07:30:00 AM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {
-          "fancode_cdn": "",
-          "fancode_cdn_v1": "",
-          "fancode_dai_cdn": ""
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "",
-            "360p": "",
-            "480p": "",
-            "540p": "",
-            "720p": "",
-            "1080p": ""
-          },
-          "cookie": "",
-          "expires": "1783167966",
-          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
-        }
-      }
-    },
-    {
       "category": "Football",
       "title": "Western Sydney Wanderers vs Adelaide United (A-League 2026-27)",
       "tournament": "A-League 2026-27",
@@ -1237,6 +1163,43 @@
       "status": "UPCOMING",
       "startTime": "08:30:00 PM 20-11-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {
+          "fancode_cdn": "",
+          "fancode_cdn_v1": "",
+          "fancode_dai_cdn": ""
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "",
+            "360p": "",
+            "480p": "",
+            "540p": "",
+            "720p": "",
+            "1080p": ""
+          },
+          "cookie": "",
+          "expires": "1783167966",
+          "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Practice Session vs Las Vegas (F1 ACADEMY LAS VEGAS 2026)",
+      "tournament": "F1 ACADEMY LAS VEGAS 2026",
+      "match_id": 139700,
+      "status": "UPCOMING",
+      "startTime": "07:30:00 AM 20-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1378,13 +1341,13 @@
       }
     },
     {
-      "category": "Tennis",
-      "title": "Nitto ATP Finals 2026 vs Turin, Italy (Nitto ATP Finals 2026)",
-      "tournament": "Nitto ATP Finals 2026",
-      "match_id": 4250942,
+      "category": "Football",
+      "title": "Al-Ahli Saudi FC vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
+      "tournament": "Roshn Saudi League 2026-2027",
+      "match_id": 4250964,
       "status": "UPCOMING",
-      "startTime": "06:30:00 PM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+      "startTime": "11:00:00 PM 20-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250964_53025_AAS_ANF_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -1415,13 +1378,13 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Al-Ahli Saudi FC vs Al-Nassr FC (Roshn Saudi League 2026-2027)",
-      "tournament": "Roshn Saudi League 2026-2027",
-      "match_id": 4250964,
+      "category": "Tennis",
+      "title": "Nitto ATP Finals 2026 vs Turin, Italy (Nitto ATP Finals 2026)",
+      "tournament": "Nitto ATP Finals 2026",
+      "match_id": 4250942,
       "status": "UPCOMING",
-      "startTime": "11:00:00 PM 20-11-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250964_53025_AAS_ANF_FC-Web.png",
+      "startTime": "06:30:00 PM 20-11-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
